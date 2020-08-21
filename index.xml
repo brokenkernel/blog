@@ -2,21 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://site.eitanadler.com/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2020 17:46:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2020 17:56:28 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://site.eitanadler.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Modulo and Remainder</title>
+      <link>https://site.eitanadler.com/posts/modulo-and-remainder/</link>
+      <pubDate>Thu, 20 Aug 2020 17:56:28 -0700</pubDate>
+      
+      <guid>https://site.eitanadler.com/posts/modulo-and-remainder/</guid>
+      <description>This is a quick test blog post to see if I could make mathjax and such work for me. It is not supposed to be complete right now.
+Some Definitions  even a number is even there is no remainder when dividied by 2 equivalently $=\{ 2k: k \in \mathbb{Z} \}$
+ odd a number is odd if it is not even equivelently $=\{ 2k+1: k \in \mathbb{Z} \}$
+  This leads to the obvious question of what is a remainder?</description>
+    </item>
+    
+    <item>
       <title>First Test</title>
-      <link>http://example.org/posts/first-test/</link>
+      <link>https://site.eitanadler.com/posts/first-test/</link>
       <pubDate>Thu, 20 Aug 2020 17:46:00 -0700</pubDate>
       
-      <guid>http://example.org/posts/first-test/</guid>
+      <guid>https://site.eitanadler.com/posts/first-test/</guid>
       <description>test test test</description>
     </item>
     

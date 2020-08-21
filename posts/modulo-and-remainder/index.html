@@ -1,0 +1,80 @@
+<head>
+  <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+<style>
+code.has-jax {font: inherit;
+              font-size: 100%;
+              background: inherit;
+              border: inherit;
+              color: #515151;}
+</style>
+</head>
+
+<div class="article-meta">
+<h1><span class="title">Modulo and Remainder</span></h1>
+
+<h2 class="date">2020/08/20</h2>
+</div>
+
+<main>
+<p>This is a quick test blog post to see if I could make mathjax and such work for me.
+It is not supposed to be complete right now.</p>
+<h1 id="some-definitions">Some Definitions</h1>
+<dl>
+<dt><strong>even</strong></dt>
+<dd>a number is <strong>even</strong> there is no remainder when dividied by 2
+<p>equivalently <code>$=\{ 2k: k \in \mathbb{Z} \}$</code></p>
+</dd>
+<dt><strong>odd</strong></dt>
+<dd>a number is <strong>odd</strong> if it is not even
+<p>equivelently <code>$=\{ 2k+1: k \in \mathbb{Z} \}$</code></p>
+</dd>
+</dl>
+<p>This leads to the obvious question of what is a <strong>remainder</strong>?</p>
+<dl>
+<dt><strong>remainder</strong></dt>
+<dd>The <strong>remainder</strong> is, informally, the amount &ldquo;left over&rdquo; after dividing.</dd>
+<dt><strong>modulo</strong></dt>
+<dd>Modulus is defined as.</dd>
+</dl>
+<p>Python 3:</p>
+<pre><code>&gt;&gt;&gt; -3 % 2
+1
+</code></pre><p>Scala:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-scala" data-lang="scala">scala<span style="color:#f92672">&gt;</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">3</span> <span style="color:#f92672">%</span> <span style="color:#ae81ff">2</span>
+<span style="color:#66d9ef">val</span> res0<span style="color:#66d9ef">:</span> <span style="color:#66d9ef">Int</span> <span style="color:#f92672">=</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>
+</code></pre></div><p>Javascript (via node)</p>
+<pre><code>&gt; -3 % 2
+-1
+</code></pre><p>In short, python uses the modulus operator while Javascript and Scala use the remainder operator</p>
+
+</main>
+
+  <footer>
+  
+  
+  </footer>
+  </body>
+</html>
+

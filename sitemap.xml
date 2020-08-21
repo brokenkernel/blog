@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/first-test/</loc>
+    <loc>https://site.eitanadler.com/posts/modulo-and-remainder/</loc>
+    <lastmod>2020-08-20T17:56:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://site.eitanadler.com/</loc>
+    <lastmod>2020-08-20T17:56:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://site.eitanadler.com/posts/</loc>
+    <lastmod>2020-08-20T17:56:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://site.eitanadler.com/posts/first-test/</loc>
     <lastmod>2020-08-20T17:46:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-08-20T17:46:00-07:00</lastmod>
+    <loc>https://site.eitanadler.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-08-20T17:46:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://site.eitanadler.com/tags/</loc>
   </url>
   
 </urlset>
