@@ -1,8 +1,10 @@
-set -x
+set -xe
+cd "$(git rev-parse --show-toplevel)"
+cd "blog"
+
 rm -rf public
 mkdir public
 git worktree prune
-rm -rf .git/worktrees/public/
 
 git worktree add -B gh-pages public origin/gh-pages
 
