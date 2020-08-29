@@ -2,13 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on pop %eax</title>
-    <link>https://site.eitanadler.com/tags/</link>
+    <link>https://blog.brokenkernel.com/tags/</link>
     <description>Recent content in Tags on pop %eax</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 29 Aug 2020 13:20:15 -0700</lastBuildDate>
     
-	<atom:link href="https://site.eitanadler.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.brokenkernel.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>habbit</title>
+      <link>https://blog.brokenkernel.com/tags/habbit/</link>
+      <pubDate>Sat, 29 Aug 2020 13:20:15 -0700</pubDate>
+      
+      <guid>https://blog.brokenkernel.com/tags/habbit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://blog.brokenkernel.com/tags/test/</link>
+      <pubDate>Thu, 20 Aug 2020 17:56:28 -0700</pubDate>
+      
+      <guid>https://blog.brokenkernel.com/tags/test/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

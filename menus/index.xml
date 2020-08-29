@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Menus on pop %eax</title>
-    <link>https://site.eitanadler.com/menus/</link>
+    <link>https://blog.brokenkernel.com/menus/</link>
     <description>Recent content in Menus on pop %eax</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Aug 2020 17:46:00 -0700</lastBuildDate>
     
-	<atom:link href="https://site.eitanadler.com/menus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.brokenkernel.com/menus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About This Site</title>
-      <link>https://site.eitanadler.com/menus/menutest/</link>
+      <link>https://blog.brokenkernel.com/menus/aboutthissite/</link>
       <pubDate>Thu, 20 Aug 2020 17:46:00 -0700</pubDate>
       
-      <guid>https://site.eitanadler.com/menus/menutest/</guid>
+      <guid>https://blog.brokenkernel.com/menus/aboutthissite/</guid>
       <description>This is my second attempt at a &amp;ldquo;blog&amp;rdquo; and is intended to be much easier for me to write posts than before.</description>
     </item>
     

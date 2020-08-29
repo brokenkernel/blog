@@ -3,41 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://site.eitanadler.com/posts/modulo-and-remainder/</loc>
-    <lastmod>2020-08-29T03:24:39-07:00</lastmod>
+    <loc>https://blog.brokenkernel.com/tags/habbit/</loc>
+    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://site.eitanadler.com/</loc>
-    <lastmod>2020-08-29T03:24:39-07:00</lastmod>
+    <loc>https://blog.brokenkernel.com/</loc>
+    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://site.eitanadler.com/posts/</loc>
-    <lastmod>2020-08-29T03:24:39-07:00</lastmod>
+    <loc>https://blog.brokenkernel.com/posts/</loc>
+    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://site.eitanadler.com/menus/menutest/</loc>
-    <lastmod>2020-08-29T03:24:39-07:00</lastmod>
+    <loc>https://blog.brokenkernel.com/posts/slack-to-wiki/</loc>
+    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://site.eitanadler.com/posts/first-test/</loc>
-    <lastmod>2020-08-20T17:48:01-07:00</lastmod>
+    <loc>https://blog.brokenkernel.com/tags/</loc>
+    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://site.eitanadler.com/menus/</loc>
-    <lastmod>2020-08-29T03:24:39-07:00</lastmod>
+    <loc>https://blog.brokenkernel.com/posts/modulo-and-remainder/</loc>
+    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://site.eitanadler.com/categories/</loc>
+    <loc>https://blog.brokenkernel.com/tags/test/</loc>
+    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://site.eitanadler.com/tags/</loc>
+    <loc>https://blog.brokenkernel.com/menus/aboutthissite/</loc>
+    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.brokenkernel.com/posts/first-test/</loc>
+    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.brokenkernel.com/menus/</loc>
+    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.brokenkernel.com/categories/</loc>
   </url>
   
 </urlset>
