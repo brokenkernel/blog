@@ -1,6 +1,7 @@
 ---
 title: "Modulo and Remainder"
 date: 2020-08-20T17:56:28-07:00
+tags: ["test"]
 ---
 
 This is a quick test blog post to see if I could make mathjax and such work for me.
