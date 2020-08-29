@@ -2,3 +2,9 @@ baseURL = "https://site.eitanadler.com"
 languageCode = "en-us"
 title = "pop %eax"
 theme = "eax"
+
+enableInlineShortcodes = true
+enableGitInfo = true
+
+[build]
+writeStats = true
