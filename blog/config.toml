@@ -15,16 +15,20 @@ paginate = "10"
 [Params]
   subtitle = "quickly written content"
   description = "testing things"
-  authorbox = true
-  toc = true
+  authorbox = false
+  toc = false
   pager = true
   mathjax = true
   mathjaxPath = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 
+[Params.footer]
+  widgets = ["comments"]
+
 [Params.sidebar]
   home = "left"
   list = "left"
-  widgets = ["search", "recent", "categories", "sidemenu", "taglist", "languages"]
+  single = "left"
+  widgets = ["search", "recent", "categories", "sidemenu", "taglist", "languages", "comments"]
 
 
 [build]

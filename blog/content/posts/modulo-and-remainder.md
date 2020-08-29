@@ -11,20 +11,18 @@ It is not supposed to be complete right now.
 **even**
 : a number is **even** there is no remainder when dividied by 2
 
-  equivalently `$=\{ 2k: k \in \mathbb{Z} \}$`
+  equivalently `$\{ 2k: k \in \mathbb{Z} \}$`
 
 **odd**
 : a number is **odd** if it is not even
 
-  equivelently `$=\{ 2k+1: k \in \mathbb{Z} \}$`
+  equivelently `$\{ 2k+1: k \in \mathbb{Z} \}$`
 
 This leads to the obvious question of what is a **remainder**?
 
-**remainder**
-: The **remainder** is, informally, the amount "left over" after dividing. 
-
-**modulo**
-: Modulus is defined as. 
+**modulus or remainder**
+: The **remainder** is, informally, the amount "left over" after dividing. We typically think of
+ the remainder as the **least absolute reminader**.
 
 Python 3:
 ```
