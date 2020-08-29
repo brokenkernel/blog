@@ -10,10 +10,10 @@ paginate = "10"
 
 [Author]
   name = "Eitan Adler"
-  bio = "32 bits of writing"
+  bio = "human. occasionally helpful."
 
 [Params]
-  subtitle = "quickly written content"
+  subtitle = "32 bits of writing"
   description = "testing things"
   authorbox = false
   toc = false
@@ -21,6 +21,9 @@ paginate = "10"
   mathjax = true
   readmore = true
   mathjaxPath = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+
+  #  opengraph = true
+
 
 [Params.footer]
   widgets = ["comments"]
