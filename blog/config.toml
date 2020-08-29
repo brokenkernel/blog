@@ -1,10 +1,31 @@
 baseURL = "https://site.eitanadler.com"
 languageCode = "en-us"
 title = "pop %eax"
-theme = "eax"
+theme = "mainroad"
 
 enableInlineShortcodes = true
 enableGitInfo = true
+
+paginate = "10"
+
+[Author]
+  name = "Eitan Adler"
+  bio = "32 bits of writing"
+
+[Params]
+  subtitle = "quickly written content"
+  description = "testing things"
+  authorbox = true
+  toc = true
+  pager = true
+  mathjax = true
+  mathjaxPath = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+
+[Params.sidebar]
+  home = "left"
+  list = "left"
+  widgets = ["search", "recent", "categories", "sidemenu", "taglist", "languages"]
+
 
 [build]
 writeStats = true
