@@ -1,4 +1,4 @@
 baseURL = "https://site.eitanadler.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "xmin"
+theme = "eax"
