@@ -18,9 +18,18 @@
       
       <guid>https://site.eitanadler.com/posts/modulo-and-remainder/</guid>
       <description>This is a quick test blog post to see if I could make mathjax and such work for me. It is not supposed to be complete right now.
-Some Definitions  even a number is even there is no remainder when dividied by 2 equivalently $=\{ 2k: k \in \mathbb{Z} \}$
- odd a number is odd if it is not even equivelently $=\{ 2k+1: k \in \mathbb{Z} \}$
+Some Definitions  even a number is even there is no remainder when dividied by 2 equivalently $\{ 2k: k \in \mathbb{Z} \}$
+ odd a number is odd if it is not even equivelently $\{ 2k+1: k \in \mathbb{Z} \}$
   This leads to the obvious question of what is a remainder?</description>
+    </item>
+    
+    <item>
+      <title>About This Site</title>
+      <link>https://site.eitanadler.com/menus/menutest/</link>
+      <pubDate>Thu, 20 Aug 2020 17:46:00 -0700</pubDate>
+      
+      <guid>https://site.eitanadler.com/menus/menutest/</guid>
+      <description>This is my second attempt at a &amp;ldquo;blog&amp;rdquo; and is intended to be much easier for me to write posts than before.</description>
     </item>
     
     <item>

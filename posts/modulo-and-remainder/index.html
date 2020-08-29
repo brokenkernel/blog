@@ -1,62 +1,80 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
 <head>
-  <script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$','$$'], ['\\[', '\\]']],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-    }
-  };
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Modulo and Remainder - pop %eax</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
 
-  window.addEventListener('load', (event) => {
-      document.querySelectorAll("mjx-container").forEach(function(x){
-        x.parentElement.classList += 'has-jax'})
-    });
+	<link rel="stylesheet" href="/css/style.css">
+	
 
-</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-  
-<style>
-code.has-jax {font: inherit;
-              font-size: 100%;
-              background: inherit;
-              border: inherit;
-              color: #515151;}
-</style>
+	<link rel="shortcut icon" href="/favicon.ico">
+		
 </head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="pop %eax" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">pop %eax</div>
+					<div class="logo__tagline">quickly written content</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/menus/menutest/">
+				
+				<span class="menu__text">About This Site</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
 
-<div class="article-meta">
-<h1><span class="title">Modulo and Remainder</span></h1>
-
-<h2 class="date">2020/08/20</h2>
-</div>
-
-<main>
-<p>This is a quick test blog post to see if I could make mathjax and such work for me.
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Modulo and Remainder</h1>
+			
+		</header><div class="content post__content clearfix">
+			<p>This is a quick test blog post to see if I could make mathjax and such work for me.
 It is not supposed to be complete right now.</p>
 <h1 id="some-definitions">Some Definitions</h1>
 <dl>
 <dt><strong>even</strong></dt>
 <dd>a number is <strong>even</strong> there is no remainder when dividied by 2
-<p>equivalently <code>$=\{ 2k: k \in \mathbb{Z} \}$</code></p>
+<p>equivalently <code>$\{ 2k: k \in \mathbb{Z} \}$</code></p>
 </dd>
 <dt><strong>odd</strong></dt>
 <dd>a number is <strong>odd</strong> if it is not even
-<p>equivelently <code>$=\{ 2k+1: k \in \mathbb{Z} \}$</code></p>
+<p>equivelently <code>$\{ 2k+1: k \in \mathbb{Z} \}$</code></p>
 </dd>
 </dl>
 <p>This leads to the obvious question of what is a <strong>remainder</strong>?</p>
 <dl>
-<dt><strong>remainder</strong></dt>
-<dd>The <strong>remainder</strong> is, informally, the amount &ldquo;left over&rdquo; after dividing.</dd>
-<dt><strong>modulo</strong></dt>
-<dd>Modulus is defined as.</dd>
+<dt><strong>modulus or remainder</strong></dt>
+<dd>The <strong>remainder</strong> is, informally, the amount &ldquo;left over&rdquo; after dividing. We typically think of
+the remainder as the <strong>least absolute reminader</strong>.</dd>
 </dl>
 <p>Python 3:</p>
 <pre><code>&gt;&gt;&gt; -3 % 2
@@ -69,12 +87,88 @@ It is not supposed to be complete right now.</p>
 -1
 </code></pre><p>In short, python uses the modulus operator while Javascript and Scala use the remainder operator</p>
 
+		</div>
+	</article>
 </main>
 
-  <footer>
-  
-  
-  </footer>
-  </body>
-</html>
 
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/posts/first-test/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">First Test</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar sidebar--left"><div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q" aria-label="SEARCH...">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="https://site.eitanadler.com" />
+	</form>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/posts/modulo-and-remainder/">Modulo and Remainder</a></li>
+			<li class="widget__item"><a class="widget__link" href="/posts/first-test/">First Test</a></li>
+		</ul>
+	</div>
+</div><script src="https://utteranc.es/client.js"
+        repo="grimreaper/blog"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+<div class="footer__links">
+	<a class="footer__link" href="/menus/menutest/">About This Site</a>
+</div>
+		<div class="footer__copyright">
+			&copy; 2020 pop %eax.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            displayMath: [['$$','$$'], ['\\[', '\\]']],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        options: {
+            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+        }
+    };
+
+    window.addEventListener('load', (event) => {
+        document.querySelectorAll("mjx-container").forEach(function(x){
+            x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+</body>
+</html>

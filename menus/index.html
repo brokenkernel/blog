@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>First Test - pop %eax</title>
+	<title>Menus - pop %eax</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -13,6 +13,7 @@
 
 	<link rel="stylesheet" href="/css/style.css">
 	
+	<link rel="alternate" type="application/rss+xml" href="/menus/index.xml" title="pop %eax">
 
 	<link rel="shortcut icon" href="/favicon.ico">
 		
@@ -51,31 +52,28 @@
 		<div class="wrapper flex">
 			<div class="primary">
 			
-<main class="main" role="main">
-	<article class="post">
-		<header class="post__header">
-			<h1 class="post__title">First Test</h1>
-			
-		</header><div class="content post__content clearfix">
-			<p>test test test</p>
-
-		</div>
-	</article>
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">Menus</h1>
+	</header><article class="list__item post">
+	<header class="list__header">
+		<h3 class="list__title post__title ">
+			<a href="/menus/menutest/" rel="bookmark">
+			About This Site
+			</a>
+		</h3>
+		
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		This is my second attempt at a &ldquo;blog&rdquo; and is intended to be much easier for me to write posts than before.
+	</div>
+</article>
 </main>
 
 
-<nav class="pager flex">
-	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="/posts/modulo-and-remainder/" rel="next">
-			<span class="pager__subtitle">Next&thinsp;»</span>
-			<p class="pager__title">Modulo and Remainder</p>
-		</a>
-	</div>
-</nav>
-
-
 			</div>
-			<aside class="sidebar sidebar--left"><div class="widget-search widget">
+			
+<aside class="sidebar sidebar--left"><div class="widget-search widget">
 	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
 		<label>
 			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q" aria-label="SEARCH...">
@@ -117,30 +115,6 @@
 </footer>
 	</div>
 <script async defer src="/js/menu.js"></script>
-
-<script>
-    MathJax = {
-        tex: {
-            inlineMath: [['$', '$'], ['\\(', '\\)']],
-            displayMath: [['$$','$$'], ['\\[', '\\]']],
-            processEscapes: true,
-            processEnvironments: true
-        },
-        options: {
-            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-        }
-    };
-
-    window.addEventListener('load', (event) => {
-        document.querySelectorAll("mjx-container").forEach(function(x){
-            x.parentElement.classList += 'has-jax'})
-    });
-
-</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type="text/javascript" id="MathJax-script" async
-        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
 
 </body>
 </html>
