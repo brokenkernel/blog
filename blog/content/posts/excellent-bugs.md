@@ -30,6 +30,9 @@ Many bugs are confusing. Others are are annoying. Some are just impossible. This
 18. Turn off the [screensaver on your server](http://thedailywtf.com/articles/I-Love-the-Smell-of-Popcorn-in-the-Morning)
 19. AMD CPU [accidently updates the stack pointer](thread.gmane.org/gmane.os.dragonfly-bsd.kernel/14471)
 
+Humourous Bugs:
+1. [Add Honest Achmed's root certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
+
 Other lists of fun bugs:
 1. [Classic Bug Reports](https://blog.regehr.org/archives/1270)
 
