@@ -17,7 +17,7 @@ Many bugs are confusing. Others are are annoying. Some are just impossible. This
 6. [Print this file, your printer will jam](https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html)
 7. gcj crashes in [April and December](https://bugs.launchpad.net/ubuntu/+source/pdftk/+bug/779908/comments/11), but only if you speak German in Austria
 8. [Processor 5 doesn't work](https://www.reddit.com/r/talesfromtechsupport/comments/3v3gnj/processor_5_has_failed/) if you're standing too close
-9. A car that is [allergic to vanilla ice cream](http://www.cgl.uwaterloo.ca/smann/IceCream/humor.html)
+9. A car that is [allergic to vanilla ice cream](http://www.cgl.uwaterloo.ca/smann/IceCream/humor.html) ([likely fake](https://www.snopes.com/fact-check/cone-of-silence/)
 10. Some employees [change the monitor's resolution](https://www.reddit.com/r/sysadmin/comments/aiqzhr/user_submits_what_i_thought_was_the_dumbest/) without touching it.
 11. The computer is [filled with bees](https://www.reddit.com/r/talesfromtechsupport/comments/6bxlmf/the_oddest_ticket_ive_ever_worked/)
 12. My chair [turns off my monitor](https://support.displaylink.com/knowledgebase/articles/738618-display-intermittently-blanking-flickering-or-los) (via tweet) {{< tweet 1214162400666103808 >}}
