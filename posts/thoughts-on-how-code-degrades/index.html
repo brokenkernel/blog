@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>test - pop %eax</title>
+	<title>Thoughts on How Code Degrades - pop %eax</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,7 +14,6 @@
 
 	<link rel="stylesheet" href="/css/style.css">
 	
-	<link rel="alternate" type="application/rss+xml" href="/tags/test/index.xml" title="pop %eax">
 
 	<link rel="shortcut icon" href="/favicon.ico">
 		
@@ -38,46 +37,45 @@
 		<div class="wrapper flex">
 			<div class="primary">
 			
-<main class="main list" role="main">
-	<header class="main__header">
-		<h1 class="main__title">test</h1>
-	</header><article class="list__item post">
-	<header class="list__header">
-		<h2 class="list__title post__title">
-			<a href="/posts/modulo-and-remainder/" rel="bookmark">
-			Modulo and Remainder
-			</a>
-		</h2>
-		
-	</header>
-	<div class="content list__excerpt post__content clearfix">
-		This is a quick test blog post to see if I could make mathjax and such work for me. It is not supposed to be complete right now.
-Some Definitions  even a number is even there is no remainder when dividied by 2 equivalently $\{ 2k: k \in \mathbb{Z} \}$
- odd a number is odd if it is not even equivelently $\{ 2k+1: k \in \mathbb{Z} \}$
-  This leads to the obvious question of what is a remainder?
-	</div>
-	<div class="list__footer clearfix">
-		<a class="list__footer-readmore btn" href="/posts/modulo-and-remainder/">Read more…</a>
-	</div>
-</article><article class="list__item post">
-	<header class="list__header">
-		<h2 class="list__title post__title">
-			<a href="/posts/first-test/" rel="bookmark">
-			First Test
-			</a>
-		</h2>
-		
-	</header>
-	<div class="content list__excerpt post__content clearfix">
-		test test test
-	</div>
-</article>
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Thoughts on How Code Degrades</h1>
+			
+		</header><div class="content post__content clearfix">
+			<p>When a piece of code is first written it easy to maintain quality.
+However, several things contribute to loss of quality.</p>
+<p>New and unexpected requirements may happen. This may violate the initial layering rules.
+New people may join. Newer people know less and then make more local changes.
+This results in global invariants becoming local invariants.</p>
+<p>Chesterton&rsquo;s fence is a curse here and one of the reasons that documentation is so important.</p>
+<p>Changes tend to be made higher and more locally in the stack. For example it is easier to make changes to the UI or frontend layer.
+These changes have lower risk since they are less shared. Shared components are avoided to be touched.
+People avoid fixing or touching shared components since people may depend on behavior. This creates a vicious cycle
+where these behaviors are untested and untouched.</p>
+<p>Focussed refactoring doesn&rsquo;t help unless thought is put into understanding and maintaining the layering and invariants.
+Merely rewriting code doesn&rsquo;t help.</p>
+<p>I&rsquo;ve found it useful to include &ldquo;things I know were bad decisions&rdquo; in documentation. In addition to this being areas of improvement
+it brings an oppertunity for others to understanding the layering.</p>
+<p>Having strong package boundaries with clear APIs is helpful. This helps enforce and document the layering decisions.</p>
+
+		</div>
+	</article>
 </main>
 
 
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/posts/excellent-bugs/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">Excellent Bugs</p>
+		</a>
+	</div>
+</nav>
+
+
 			</div>
-			
-<aside class="sidebar sidebar--left"><div class="widget-search widget">
+			<aside class="sidebar sidebar--left"><div class="widget-search widget">
 	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
 		<label>
 			<input class="widget-search__field" type="search" placeholder="SEARCH…" value="" name="q" aria-label="SEARCH…">

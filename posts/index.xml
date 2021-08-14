@@ -6,10 +6,21 @@
     <description>Recent content in Posts on pop %eax</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2020 21:22:29 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 17:48:55 -0700</lastBuildDate>
     
 	<atom:link href="https://blog.brokenkernel.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thoughts on How Code Degrades</title>
+      <link>https://blog.brokenkernel.com/posts/thoughts-on-how-code-degrades/</link>
+      <pubDate>Fri, 13 Aug 2021 17:48:55 -0700</pubDate>
+      
+      <guid>https://blog.brokenkernel.com/posts/thoughts-on-how-code-degrades/</guid>
+      <description>When a piece of code is first written it easy to maintain quality. However, several things contribute to loss of quality.
+New and unexpected requirements may happen. This may violate the initial layering rules. New people may join. Newer people know less and then make more local changes. This results in global invariants becoming local invariants.
+Chesterton&amp;rsquo;s fence is a curse here and one of the reasons that documentation is so important.</description>
+    </item>
     
     <item>
       <title>Excellent Bugs</title>
