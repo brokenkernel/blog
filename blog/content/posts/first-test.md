@@ -5,3 +5,4 @@ tags: ["test"]
 ---
 test test test
 
+$x$ + $$ x + y $$
