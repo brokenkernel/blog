@@ -1,1 +1,1 @@
-cd blog && hugo server --verbose --buildDrafts --buildFuture --enableGitInfo --i18n-warnings --path-warnings --templateMetrics --templateMetricsHints
+cd blog && hugo server --verbose --buildDrafts --buildFuture --enableGitInfo --printI18nWarnings --printPathWarnings --printUnusedTemplates

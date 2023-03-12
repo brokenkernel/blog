@@ -20,10 +20,10 @@ Many bugs are confusing. Others are are annoying. Some are just impossible. This
 9. A car that is [allergic to vanilla ice cream](http://www.cgl.uwaterloo.ca/smann/IceCream/humor.html) ([likely fake](https://www.snopes.com/fact-check/cone-of-silence/)
 10. Some employees [change the monitor's resolution](https://www.reddit.com/r/sysadmin/comments/aiqzhr/user_submits_what_i_thought_was_the_dumbest/) without touching it.
 11. The computer is [filled with bees](https://www.reddit.com/r/talesfromtechsupport/comments/6bxlmf/the_oddest_ticket_ive_ever_worked/)
-12. My chair [turns off my monitor](https://support.displaylink.com/knowledgebase/articles/738618-display-intermittently-blanking-flickering-or-los) (via tweet) {{< tweet 1214162400666103808 >}}
+12. My chair [turns off my monitor](https://support.displaylink.com/knowledgebase/articles/738618-display-intermittently-blanking-flickering-or-los) (via tweet) {{< tweet royvanrijn 1214162400666103808 >}}
 13. The [null byte that wasn't](https://www.reddit.com/r/programming/comments/hvbjnd/500_mile_email_a_curated_list_of_absurd_software/fytxxo7/)
 14. The [unkillable companion is dead](https://twitter.com/_taylorswope/status/1205252714680045568)
-{{< tweet 1205252714680045568 >}}
+{{< tweet _taylorswope 1205252714680045568 >}}
 15. [iPhones Are Allergic to Helium](https://www.ifixit.com/News/11986/iphones-are-allergic-to-helium)
 16. [saving corrupts the memory card](https://www.quora.com/Programming-Interviews/Whats-the-hardest-bug-youve-debugged/answer/Dave-Baggett)
 17. A [specific table](https://allenpike.com/2018/the-great-bug-hunt) causes the XBox to crash
