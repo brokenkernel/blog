@@ -21,9 +21,10 @@ paginate = "10"
   pager = true
   mathjax = true
   readmore = true
-  mathjaxPath = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+  mathjaxConfig = "TeX-MML-AM_CHTML"
+  # mathjaxPath = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 
-  #  opengraph = true
+  opengraph = true
 
 
 [Params.footer]
