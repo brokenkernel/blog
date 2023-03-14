@@ -4,16 +4,18 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Slack to Wiki - pop %eax</title>
+	<title>Three analytical traps in accident investigation - pop %eax</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
-		<meta property="og:title" content="Slack to Wiki" />
-<meta property="og:description" content="One habbit I&rsquo;ve started at work is called &ldquo;slack to wiki&rdquo;. Whenever I learn something new, or explain something to someone else, I try to document it on our internal wiki quickly and in a low effort way. If I come back to the topic again in the future I&rsquo;ll modify the content and make it actully good.
-This forms of a knowledge base which can grow, and also lets me reference past topics in future conversations more easily." />
+		<meta property="og:title" content="Three analytical traps in accident investigation" />
+<meta property="og:description" content="I recently watched a video on mistakes investigators make in accident investigating. It was worth watching but because its video it is difficult to skim or remember. This blog post is to make it to write down what I learned in a textual format to make it easier to find and remember later
+This is the video:
+The three mistakes were
+Counterfactual reasoning 1 This is when the investigator discusses events that never occurred." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.brokenkernel.com/posts/slack-to-wiki/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2020-08-29T13:20:15-07:00" />
-<meta property="article:modified_time" content="2020-08-29T18:07:16-07:00" />
+<meta property="og:url" content="https://blog.brokenkernel.com/posts/three-analytical-traps/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-03-14T11:24:44-07:00" />
+<meta property="article:modified_time" content="2023-03-14T14:04:40-07:00" />
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -48,45 +50,87 @@ This forms of a knowledge base which can grow, and also lets me reference past t
 <main class="main" role="main">
 	<article class="post">
 		<header class="post__header">
-			<h1 class="post__title">Slack to Wiki</h1>
+			<h1 class="post__title">Three analytical traps in accident investigation</h1>
 			
 		</header>
 		<div class="content post__content clearfix">
-			<p>One habbit I&rsquo;ve started at work is called &ldquo;slack to wiki&rdquo;.
-Whenever I learn something new, or explain something to someone else,
-I try to document it on our internal wiki quickly and in a low effort way.
-If I come back to the topic again in the future I&rsquo;ll modify the content and make it actully good.</p>
-<p>This forms of a knowledge base which can grow, and also lets me reference past topics in future conversations more
-easily.</p>
-<p>I&rsquo;m hoping this website could become more of that in a somewhat more public way.</p>
+			<p>I recently watched a video on mistakes investigators make in accident investigating. It was worth watching but because its video it is difficult to skim or remember. This blog post is to make it to write down what I learned in a textual format to make it easier to find and remember later</p>
+<p>This is the video:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/TqaFT-0cY7U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>The three mistakes were</p>
+<ol>
+<li>Counterfactual reasoning <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
+</ol>
+<p>This is when the investigator discusses events that <em>never occurred</em>. For example:</p>
+<blockquote class="blockquote">
+	
+If the operator had clicked the button the outage would not have happened
+
+    
+</blockquote>
+
+<ol start="2">
+<li>Normative Language <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></li>
+</ol>
+<p>This is when the investigator inserts their own values into. For example:</p>
+<blockquote class="blockquote">
+	
+The crew mismanaged the plane during ascent.
+
+    
+</blockquote>
+
+<p>Here the phrase <em>mismanaged</em> indicates that the crew did something wrong. Instead it would be better to explain why the crew thought what they did was actually correct.
+The high level idea of incident analysis and investigating is assuming that all actions made sense at the time they took place and understanding <em>why</em> that it so.</p>
+<ol start="3">
+<li>Mechanistic reasoning <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></li>
+</ol>
+<p>This flaw is assuming that if the subcomponents of the system were operating correctly and safely then the accident would not have occurred. For example:</p>
+<blockquote class="blockquote">
+	
+The operator delayed deploying the fix due to unfamiliarity with the CI pipeline.
+
+    
+</blockquote>
+
+<p>Here we assume that if only the operator was clueful about the system, then everything would have worked out.</p>
+<p>and a bonus:</p>
+<ol start="4">
+<li>Cherry Picking Data <sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></li>
+</ol>
+<p>This one is easy: only revealing the data that is relevant to the pre-conceived point one is trying to make.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p><a href="https://youtu.be/TqaFT-0cY7U?t=35">https://youtu.be/TqaFT-0cY7U?t=35</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><a href="https://youtu.be/TqaFT-0cY7U?t=149">https://youtu.be/TqaFT-0cY7U?t=149</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p><a href="https://youtu.be/TqaFT-0cY7U?t=267">https://youtu.be/TqaFT-0cY7U?t=267</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p><a href="https://youtu.be/TqaFT-0cY7U?t=426">https://youtu.be/TqaFT-0cY7U?t=426</a>&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 
 		</div>
-		<footer class="post__footer">
-			
-<div class="post__tags tags clearfix">
-	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
-	<ul class="tags__list">
-		<li class="tags__item">
-			<a class="tags__link btn" href="/tags/habbit/" rel="tag">habbit</a>
-		</li>
-	</ul>
-</div>
-		</footer>
 	</article>
 </main>
 
 
 <nav class="pager flex">
 	<div class="pager__item pager__item--prev">
-		<a class="pager__link" href="/posts/modulo-and-remainder/" rel="prev">
+		<a class="pager__link" href="/posts/thoughts-on-how-code-degrades/" rel="prev">
 			<span class="pager__subtitle">«&thinsp;Previous</span>
-			<p class="pager__title">Modulo and Remainder</p>
-		</a>
-	</div>
-	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="/posts/excellent-bugs/" rel="next">
-			<span class="pager__subtitle">Next&thinsp;»</span>
-			<p class="pager__title">Excellent Bugs</p>
+			<p class="pager__title">Thoughts on How Code Degrades</p>
 		</a>
 	</div>
 </nav>

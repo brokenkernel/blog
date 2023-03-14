@@ -5,12 +5,8 @@
     <link>https://blog.brokenkernel.com/tags/test/</link>
     <description>Recent content in test on pop %eax</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2020 17:56:28 -0700</lastBuildDate>
-    
-	<atom:link href="https://blog.brokenkernel.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Aug 2020 17:56:28 -0700</lastBuildDate><atom:link href="https://blog.brokenkernel.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modulo and Remainder</title>
       <link>https://blog.brokenkernel.com/posts/modulo-and-remainder/</link>
@@ -18,9 +14,9 @@
       
       <guid>https://blog.brokenkernel.com/posts/modulo-and-remainder/</guid>
       <description>This is a quick test blog post to see if I could make mathjax and such work for me. It is not supposed to be complete right now.
-Some Definitions  even a number is even there is no remainder when dividied by 2 equivalently $\{ 2k: k \in \mathbb{Z} \}$
- odd a number is odd if it is not even equivelently $\{ 2k+1: k \in \mathbb{Z} \}$
-  This leads to the obvious question of what is a remainder?</description>
+Some Definitions even a number is even there is no remainder when divided by 2 equivalently $\{ 2k: k \in \mathbb{Z} \}$
+odd a number is odd if it is not even equivalently $\{ 2k+1: k \in \mathbb{Z} \}$
+This leads to the obvious question of what is a remainder?</description>
     </item>
     
     <item>
@@ -29,8 +25,9 @@ Some Definitions  even a number is even there is no remainder when dividied by 2
       <pubDate>Thu, 20 Aug 2020 17:46:00 -0700</pubDate>
       
       <guid>https://blog.brokenkernel.com/posts/first-test/</guid>
-      <description>test test test
-$x$ + $$ x + y $$</description>
+      <description>test test test 1
+$x$ + $$ x + y $$
+testing of a footnote&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     
   </channel>

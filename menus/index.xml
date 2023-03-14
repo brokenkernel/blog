@@ -5,12 +5,8 @@
     <link>https://blog.brokenkernel.com/menus/</link>
     <description>Recent content in Menus on pop %eax</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2020 17:46:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://blog.brokenkernel.com/menus/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Aug 2020 17:46:00 -0700</lastBuildDate><atom:link href="https://blog.brokenkernel.com/menus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About This Site</title>
       <link>https://blog.brokenkernel.com/menus/aboutthissite/</link>

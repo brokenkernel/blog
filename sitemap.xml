@@ -1,69 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://blog.brokenkernel.com/</loc>
-    <lastmod>2023-03-04T21:46:08-08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-14T14:04:40-07:00</lastmod>
+  </url><url>
     <loc>https://blog.brokenkernel.com/posts/</loc>
-    <lastmod>2023-03-04T21:46:08-08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-14T14:04:40-07:00</lastmod>
+  </url><url>
+    <loc>https://blog.brokenkernel.com/posts/three-analytical-traps/</loc>
+    <lastmod>2023-03-14T14:04:40-07:00</lastmod>
+  </url><url>
     <loc>https://blog.brokenkernel.com/posts/thoughts-on-how-code-degrades/</loc>
     <lastmod>2021-08-13T18:21:48-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.brokenkernel.com/posts/excellent-bugs/</loc>
-    <lastmod>2020-09-09T22:21:38-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-12T15:44:30-07:00</lastmod>
+  </url><url>
     <loc>https://blog.brokenkernel.com/tags/habbit/</loc>
     <lastmod>2020-08-29T18:07:16-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.brokenkernel.com/posts/slack-to-wiki/</loc>
     <lastmod>2020-08-29T18:07:16-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.brokenkernel.com/tags/</loc>
-    <lastmod>2023-03-04T21:46:08-08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-12T17:07:06-07:00</lastmod>
+  </url><url>
     <loc>https://blog.brokenkernel.com/posts/modulo-and-remainder/</loc>
-    <lastmod>2020-08-29T13:30:11-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-12T17:07:06-07:00</lastmod>
+  </url><url>
     <loc>https://blog.brokenkernel.com/tags/test/</loc>
-    <lastmod>2023-03-04T21:46:08-08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-12T17:07:06-07:00</lastmod>
+  </url><url>
     <loc>https://blog.brokenkernel.com/menus/aboutthissite/</loc>
     <lastmod>2020-08-29T13:30:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.brokenkernel.com/posts/first-test/</loc>
-    <lastmod>2023-03-04T21:46:08-08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-12T15:31:20-07:00</lastmod>
+  </url><url>
     <loc>https://blog.brokenkernel.com/menus/</loc>
     <lastmod>2020-08-29T13:30:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.brokenkernel.com/categories/</loc>
   </url>
-  
 </urlset>
