@@ -6,7 +6,16 @@
     <description>Recent content on pop %eax</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 Mar 2023 21:58:58 -0700</lastBuildDate><atom:link href="https://blog.brokenkernel.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 14:50:25 -0700</lastBuildDate><atom:link href="https://blog.brokenkernel.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leprechauns of Software Engineering</title>
+      <link>https://blog.brokenkernel.com/posts/leprechauns-of-software-engineering/</link>
+      <pubDate>Sun, 02 Apr 2023 14:50:25 -0700</pubDate>
+      
+      <guid>https://blog.brokenkernel.com/posts/leprechauns-of-software-engineering/</guid>
+      <description>I recently read &amp;ldquo;The leprechauns of software engineering&amp;rdquo; by Laurent Bossavit 1. The book goes through a few myths about software engineering and then traces how those myths entered the public consciousness. It was well worth reading for anyone interested in research based software engineering practices. It was primarily useful on how to verify about claims rather than the claims themselves. While I&amp;rsquo;ve heard of most of the myths - I also heard about them as myths rather than as true claims.</description>
+    </item>
+    
     <item>
       <title>Communication Treadmill</title>
       <link>https://blog.brokenkernel.com/posts/communication-treadmill/</link>

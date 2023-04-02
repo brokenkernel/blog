@@ -4,17 +4,15 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Thoughts on How Code Degrades - pop %eax</title>
+	<title>Leprechauns of Software Engineering - pop %eax</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
-		<meta property="og:title" content="Thoughts on How Code Degrades" />
-<meta property="og:description" content="When a piece of code is first written it easy to maintain quality. However, several things contribute to loss of quality.
-New and unexpected requirements may happen. This may violate the initial layering rules. New people may join. Newer people know less and then make more local changes. This results in global invariants becoming local invariants.
-Chesterton&rsquo;s fence is a curse here and one of the reasons that documentation is so important." />
+		<meta property="og:title" content="Leprechauns of Software Engineering" />
+<meta property="og:description" content="I recently read &ldquo;The leprechauns of software engineering&rdquo; by Laurent Bossavit 1. The book goes through a few myths about software engineering and then traces how those myths entered the public consciousness. It was well worth reading for anyone interested in research based software engineering practices. It was primarily useful on how to verify about claims rather than the claims themselves. While I&rsquo;ve heard of most of the myths - I also heard about them as myths rather than as true claims." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.brokenkernel.com/posts/thoughts-on-how-code-degrades/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-08-13T17:48:55-07:00" />
-<meta property="article:modified_time" content="2021-08-13T18:21:48-07:00" />
+<meta property="og:url" content="https://blog.brokenkernel.com/posts/leprechauns-of-software-engineering/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-04-02T14:50:25-07:00" />
+<meta property="article:modified_time" content="2023-04-02T14:54:10-07:00" />
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -49,25 +47,36 @@ Chesterton&rsquo;s fence is a curse here and one of the reasons that documentati
 <main class="main" role="main">
 	<article class="post">
 		<header class="post__header">
-			<h1 class="post__title">Thoughts on How Code Degrades</h1>
+			<h1 class="post__title">Leprechauns of Software Engineering</h1>
 			
 		</header>
 		<div class="content post__content clearfix">
-			<p>When a piece of code is first written it easy to maintain quality.
-However, several things contribute to loss of quality.</p>
-<p>New and unexpected requirements may happen. This may violate the initial layering rules.
-New people may join. Newer people know less and then make more local changes.
-This results in global invariants becoming local invariants.</p>
-<p>Chesterton&rsquo;s fence is a curse here and one of the reasons that documentation is so important.</p>
-<p>Changes tend to be made higher and more locally in the stack. For example it is easier to make changes to the UI or frontend layer.
-These changes have lower risk since they are less shared. Shared components are avoided to be touched.
-People avoid fixing or touching shared components since people may depend on behavior. This creates a vicious cycle
-where these behaviors are untested and untouched.</p>
-<p>Focussed refactoring doesn&rsquo;t help unless thought is put into understanding and maintaining the layering and invariants.
-Merely rewriting code doesn&rsquo;t help.</p>
-<p>I&rsquo;ve found it useful to include &ldquo;things I know were bad decisions&rdquo; in documentation. In addition to this being areas of improvement
-it brings an oppertunity for others to understanding the layering.</p>
-<p>Having strong package boundaries with clear APIs is helpful. This helps enforce and document the layering decisions.</p>
+			<p>I recently read &ldquo;The leprechauns of software engineering&rdquo; by Laurent Bossavit <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. The book goes through a few myths about software engineering and then traces how those myths entered the public consciousness.  It was well worth reading for anyone interested in research based software engineering practices. It was primarily useful on <em>how to verify about claims</em> rather than the claims themselves. While I&rsquo;ve heard of most of the myths - I also heard about them <em>as myths</em> rather than as true claims.  It reminded me a lot of &ldquo;Making Software&rdquo; <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.
+Core Insights:</p>
+<ul>
+<li>the &ldquo;Ouroboros effect&rdquo; is real and present even in academic work. Make it a point to read original sources</li>
+<li>Its relatively easy to trace the lineage of claims and is worth doing so.</li>
+<li>Software Engineering is its own discipline and trying to directly transplant e.g., medical research techniques are not conducive to generating understanding. &ldquo;It needs to be studied with tools that borrow as much from the social and cognitive sciences as they do from the mathematical theories of computation&rdquo; (Bossavit. p. 129<sup id="fnref1:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>)</li>
+<li>lack of critical thinking and analysis has caused much bad research both within academia and has allowed it to escape into the wild.</li>
+<li>when reading a graph or summary always ask &ldquo;what exactly does <em>one</em> of these points represent?&rdquo;</li>
+</ul>
+<p>The author also discussed:</p>
+<ul>
+<li>It would be helpful to move away from thinking about &ldquo;requirements&rdquo; to thinking about negotiation.
+In the conclusion the author makes this claim.</li>
+</ul>
+<p>I happen to agree with it, but felt it was not supported by the rest of the book</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Laurent Bossavit. 2015. The leprechauns of software engineering: how folklore turns into fact and what to do about it. Leanpub, Victoria, British Columbia.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Andy Oram, Greg Wilson, and Andrew Oram (Eds.). 2011. Making software: what really works, and why we believe it (1st ed ed.). O’Reilly, Beijing Köln.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 
 		</div>
 	</article>
@@ -76,15 +85,9 @@ it brings an oppertunity for others to understanding the layering.</p>
 
 <nav class="pager flex">
 	<div class="pager__item pager__item--prev">
-		<a class="pager__link" href="/posts/excellent-bugs/" rel="prev">
+		<a class="pager__link" href="/posts/communication-treadmill/" rel="prev">
 			<span class="pager__subtitle">«&thinsp;Previous</span>
-			<p class="pager__title">Excellent Bugs</p>
-		</a>
-	</div>
-	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="/posts/three-analytical-traps/" rel="next">
-			<span class="pager__subtitle">Next&thinsp;»</span>
-			<p class="pager__title">Three analytical traps in accident investigation</p>
+			<p class="pager__title">Communication Treadmill</p>
 		</a>
 	</div>
 </nav>
