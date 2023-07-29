@@ -6,7 +6,17 @@
     <description>Recent content in Posts on pop %eax</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Apr 2023 14:50:25 -0700</lastBuildDate><atom:link href="https://blog.brokenkernel.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jul 2023 23:24:25 -0700</lastBuildDate><atom:link href="https://blog.brokenkernel.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review - The Annotated Turing</title>
+      <link>https://blog.brokenkernel.com/posts/book-review-annotated-turing/</link>
+      <pubDate>Fri, 28 Jul 2023 23:24:25 -0700</pubDate>
+      
+      <guid>https://blog.brokenkernel.com/posts/book-review-annotated-turing/</guid>
+      <description>&amp;ldquo;The Annotated Turing&amp;rdquo; by Charles Petzold 1
+Many of us have learned about &amp;lsquo;Turing Machines&amp;rsquo; or &amp;lsquo;Turing Completeness&amp;rsquo; but have never actually read the motivating text and explanation. This is a phenomenal book that goes through paragraph by paragraph the paper &amp;ldquo;On Computable Numbers&amp;rdquo; 2 by Alan Turing in a rigorous way explaining the concept intuitively and completely. Not only does it explain the text but it also gives enough background so that one could understand and follow through the proofs themselves.</description>
+    </item>
+    
     <item>
       <title>Leprechauns of Software Engineering</title>
       <link>https://blog.brokenkernel.com/posts/leprechauns-of-software-engineering/</link>
