@@ -1,6 +1,7 @@
 ---
 title: "Leprechauns of Software Engineering"
 date: 2023-04-02T14:50:25-07:00
+tags: ['book review']
 ---
 
 I recently read "The leprechauns of software engineering" by Laurent Bossavit [^1]. The book goes through a few myths about software engineering and then traces how those myths entered the public consciousness.  It was well worth reading for anyone interested in research based software engineering practices. It was primarily useful on _how to verify about claims_ rather than the claims themselves. While I've heard of most of the myths - I also heard about them _as myths_ rather than as true claims.  It reminded me a lot of "Making Software" [^2].
