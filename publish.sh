@@ -2,7 +2,7 @@ set -xe
 cd "$(git rev-parse --show-toplevel)"
 cd "blog"
 
-hugo --verbose
+hugo --logLevel info
 
 (
   cd public
