@@ -18,6 +18,8 @@ An example of how this happens:
 
 Another way of thinking about this is that every undesired message by the recipient increases the noise floor of the channel. At some point truly useful messages get lost in the noise.
 
+More generally - the value of a communication channel is defined by its least important message. Every time an unimportant message is sent (defined by the recipient) it lowers the value for the entire channel.
+
 This can be solved in a few ways:
 
 1. moderation of the channel by someone who relies on the value of the channel
