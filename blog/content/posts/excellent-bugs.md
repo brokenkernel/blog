@@ -28,6 +28,7 @@ Many bugs are confusing. Others are are annoying. Some are just impossible. This
 17. A [specific table](https://allenpike.com/2018/the-great-bug-hunt) causes the XBox to crash
 18. Turn off the [screensaver on your server](http://thedailywtf.com/articles/I-Love-the-Smell-of-Popcorn-in-the-Morning)
 19. AMD CPU [accidently updates the stack pointer](thread.gmane.org/gmane.os.dragonfly-bsd.kernel/14471)
+20. [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 
 Humourous Bugs:
 1. [Add Honest Achmed's root certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
