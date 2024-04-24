@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: articulate/actions-markdownlint@v1
         with:
-          config: markdownlint-config.json
+          config: blog/markdownlint-config.json
           files: 'docs/**/*.md'
           ignore: node_modules
           version: 0.28.1
