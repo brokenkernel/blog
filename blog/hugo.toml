@@ -9,9 +9,6 @@ enableMissingTranslationPlaceholders = true
 
 paginate = "10"
 
-[Author]
-  name = "Eitan Adler"
-  bio = "human. occasionally helpful."
 
 [Params]
   subtitle = "32 bits of writing"
@@ -36,6 +33,9 @@ paginate = "10"
   single = "left"
   widgets = ["search", "recent", "categories", "sidemenu", "taglist", "languages", "comments"]
 
+[Params.author]
+  name = "Eitan Adler"
+  bio = "human. occasionally helpful."
 
 [build]
 writeStats = true
