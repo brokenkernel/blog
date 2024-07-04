@@ -11,31 +11,31 @@ This post was written in reply to a specific post discussing removing code revie
 # Some Additional Background
 Some of this reply is based on my own reading in the fields of cognitive science, resilience engineering, and safety engineering. It also presupposes you already have some trust in the general idea of Empirical Software Engineering.
 
-If you're not familiar with the topic, the single best introduction I could give is a talk by Hillel Wayne entitled "Intro to Empirical Software Engineering: What We Know We Don't Know". [^1] I can't normally stand watching talks but this one stands out amongst the crowd. It also directly addresses the point (around 27 minutes in). Unfortunately, as the talk and book points out, much of the research is not great or not existent. Studies are often, though not always, done on students or newer programmers (samples of convenience). Nonetheless there is some consensus on specific areas.
+If you're not familiar with the topic, the single best introduction I could give is a talk by Hillel Wayne entitled <cite>Intro to Empirical Software Engineering: What We Know We Don't Know</cite>. [^1] I can't normally stand watching talks but this one stands out amongst the crowd. It also directly addresses the point (around 27 minutes in). Unfortunately, as the talk and book points out, much of the research is not great or not existent. Studies are often, though not always, done on students or newer programmers (samples of convenience). Nonetheless there is some consensus on specific areas.
 
-# Point of Code Review
-The vast majority of code review has to do with finding and preventing defects. There is scant research let alone evidence on other aspects such as security, cross-team pollination, high level architectural decisions, etc.
-Organisational Structure
-
-One of the few metrics we have that reliability identifies defects in code is Organizational Structure.  In particular the more people that touch specific binaries (both now and across time), the further apart those people are, and so on, the more likely defects are. [^2] I mention this because I mostly think of code review in larger organisations with modern review tooling. Doing the same at a tiny startup with many fewer people touching the code (and with much more shared domain knowledge) may have a different impact.
+# Goals of Code Review
+The vast majority of code review research has to do with finding and preventing defects. There is scant research let alone evidence on other aspects such as security, cross-team pollination, high level architectural decisions, etc.
 
 # Code Review Has Impact
-After "get enough sleep", code review is one of the best tools we have to find defects.
 
-# Impact On Code Review
-The biggest killer to code review is time. There is a linear relationship between how much time you spend reviewing code and the ability to find defects for the first hour or so. [^3]<sup>pp770</sup> After this there is a sharp dropoff. This is likely because of focus fatigue.
+**Defect Finding** After _getting enough sleep_, code review is one of the best tools we have to find defects. Code Review finds between 60% to 80% of bugs in the code. Only 1 in 4 comments is about functionality. The other 3 are about quality. [^1] (citation here is to the video. I've read similar studies). None of TDD, pairing, or formal proofs has as much evidence as code review.
 
-Similarly density matters. Small diffs demonstrate a wide variety of defect sizes. Large diffs (more than about 400 LOC) demonstrate a small range of small numbers. In short, the reviewers don't do a good job.[^3]<sup>pp773</sup>
+**Self Reviews** Self-check reviews had half the defect density of nonchecked reviews, indicating that people who double-check their work found half of the problems by themselves. [^3]<sup>pp18</sup>
 
-Cognitive Load & Cognitive load. For small changes a guided checklist and higher cognitive load were more helpful, for large changes, the checklist proved to be more efficient and to lower cognitive load, while the guided checklist led to lower effectiveness. [^4] This is probably because the small code review is associated with actually understanding the code rather than mechanical checks.  For larger changes it was to avoid missing things as you go through the diff Ordering Matters. Code listed first is likely to have more careful review done. Defects in later files are less likely to be found. [^5]  If I were designing from scratch I would likely order files to review from "most changed" to "least changed" or something similar instead of alphabetical.  At least, I would point out more clearly the files more likely to have bugs.
+**Subjective Experience** Developers generally find it valuable. The review quality is mainly associated with the thoroughness of the feedback, the reviewer’s familiarity with the code, and the perceived quality of the code itself. Developers often struggle with managing their personal priorities, maintaining their technical skill set, and mitigating context switching. [^6]
 
-Developers generally find it valuable. The review quality is mainly associated with the thoroughness of the feedback, the reviewer’s familiarity with the code, and the perceived quality of the code itself. developers often struggle with managing their personal priorities, maintaining their technical skill set, and mitigating context switching. [^6]
+**False positives**. Misunderstandings by the reviewer are between 15 to 30%  [^7][^8].  On the other hand, fixing such a misunderstanding is perhaps worth it?
 
-False positive. Misunderstandings by the reviewer are between 15 to 30%  [^7][^8].  On the other hand, fixing such a misunderstanding is perhaps worth it?
+# What Affects Code Review?
 
-Defect Finding. Code Review finds between 60% to 80% of bugs in the code. Only 1 in 4 comments is about functionality. The other 3 are about quality. [^1] (citation here is to the video. I've read similar studies). None of TDD, pairing, or formal proofs has as much evidence as code review.
+**Time** The biggest killer to code review is time. There is a linear relationship between how much time you spend reviewing code and the ability to find defects for the first hour or so. [^3]<sup>pp770</sup> After this there is a sharp dropoff. This is likely because of focus fatigue.
 
-Self-check reviews had half the defect density of nonchecked reviews, indicating that people who double-check their work found half of the problems by themselves. [^3]<sup>pp18</sup>
+**Density** Similarly density matters. Small diffs demonstrate a wide variety of defect sizes. Large diffs (more than about 400 LOC) demonstrate a small range of small numbers. In short, the reviewers don't do a good job.[^3]<sup>pp773</sup>
+
+# Impact On Defects
+
+**Organisational Structure** One of the few metrics we have that reliability identifies defects in code is Organizational Structure.  In particular the more people that touch specific binaries (both now and across time), the further apart those people are, and so on, the more likely defects are. [^2] I mention this because I mostly think of code review in larger organisations with modern review tooling. Doing the same at a tiny startup with many fewer people touching the code (and with much more shared domain knowledge) may have a different impact.
+
 
 # References
 [^1]: Hillel Wayne. (2019, August 22). Intro to Empirical Software Engineering: What We Know We Don’t Know. GOTO 2019, Chicago. https://www.youtube.com/watch?v=WELBnE33dpY
