@@ -26,19 +26,22 @@ This leads to the obvious question of what is a **remainder**?
  the remainder as the **least absolute remainder**.
 
 Python 3:
-```
+
+```python
 >>> -3 % 2
 1
 ```
 
 Scala:
+
 ```scala
 scala> -3 % 2
 val res0: Int = -1
 ```
 
 Javascript (via node)
-```
+
+```javascript
 > -3 % 2
 -1
 ```

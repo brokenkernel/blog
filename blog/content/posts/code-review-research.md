@@ -6,14 +6,17 @@ date: 2024-04-23T20:30:58-07:00
 Code review and CI/CD are one the few practices with actual empirical support.
 
 # Meta Comment
+
 This post was written in reply to a specific post discussing removing code reviews entirely.
 
 # Some Additional Background
+
 Some of this reply is based on my own reading in the fields of cognitive science, resilience engineering, and safety engineering. It also presupposes you already have some trust in the general idea of Empirical Software Engineering.
 
 If you're not familiar with the topic, the single best introduction I could give is a talk by Hillel Wayne entitled <cite>Intro to Empirical Software Engineering: What We Know We Don't Know</cite>. [^1] I can't normally stand watching talks but this one stands out amongst the crowd. It also directly addresses the point (around 27 minutes in). Unfortunately, as the talk and book points out, much of the research is not great or not existent. Studies are often, though not always, done on students or newer programmers (samples of convenience). Nonetheless there is some consensus on specific areas.
 
 # Goals of Code Review
+
 The vast majority of code review research has to do with finding and preventing defects. There is scant research let alone evidence on other aspects such as security, cross-team pollination, high level architectural decisions, etc.
 
 # Code Review Has Impact
@@ -36,8 +39,8 @@ The vast majority of code review research has to do with finding and preventing 
 
 **Organisational Structure** One of the few metrics we have that reliability identifies defects in code is Organizational Structure.  In particular the more people that touch specific binaries (both now and across time), the further apart those people are, and so on, the more likely defects are. [^2] I mention this because I mostly think of code review in larger organisations with modern review tooling. Doing the same at a tiny startup with many fewer people touching the code (and with much more shared domain knowledge) may have a different impact.
 
-
 # References
+
 [^1]: Hillel Wayne. (2019, August 22). Intro to Empirical Software Engineering: What We Know We Don’t Know. GOTO 2019, Chicago. https://www.youtube.com/watch?v=WELBnE33dpY
 
 [^2]: Nagappan, N., Murphy, B., Basili, V., & Nagappan, N. (2008). The Influence of Organizational Structure On Software Quality: An Empirical Case Study (MSR-TR-2008-11; p. 11). Association for Computing Machinery, Inc. https://www.microsoft.com/en-us/research/publication/the-influence-of-organizational-structure-on-software-quality-an-empirical-case-study/

@@ -31,9 +31,11 @@ Many bugs are confusing. Others are are annoying. Some are just impossible. This
 20. [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 
 Humourous Bugs:
+
 1. [Add Honest Achmed's root certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 
 Other lists of fun bugs:
+
 1. [Classic Bug Reports](https://blog.regehr.org/archives/1270)
 
 Know of any more? File a bug!

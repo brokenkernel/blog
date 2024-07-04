@@ -9,7 +9,6 @@ This is the video:
 
 {{< youtube TqaFT-0cY7U >}}
 
-
 The three mistakes were
 
 1. Counterfactual reasoning [^1]
@@ -19,7 +18,6 @@ This is when the investigator discusses events that _never occurred_. For exampl
 {{< quote >}}
 If the operator had clicked the button the outage would not have happened
 {{< /quote >}}
-
 
 2. Normative Language [^2]
 
@@ -31,7 +29,6 @@ The crew mismanaged the plane during ascent.
 
 Here the phrase _mismanaged_ indicates that the crew did something wrong. Instead it would be better to explain why the crew thought what they did was actually correct.
 The high level idea of incident analysis and investigating is assuming that all actions made sense at the time they took place and understanding _why_ that it so.
-
 
 3. Mechanistic reasoning [^3]
 

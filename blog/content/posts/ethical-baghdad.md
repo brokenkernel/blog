@@ -20,7 +20,7 @@ I ended up emailing[^3] the author and asking about this discrepancy. Here is wh
 1. The quote was included as a footnote in the original article, which was probably submitted in 1995
 2. The footnote was apparently omitted from the CSCW publication!
   <q>If I ever knew about that omission before your message today, I had forgotten it!  I thought it was published at the time!   Lucky for me I had kept the original, because…</q>
-3.  An an archive of the original publications was put on guppylake.com in the 2000's based on the author's copy rather than the CSCW copy.
+3. An an archive of the original publications was put on guppylake.com in the 2000's based on the author's copy rather than the CSCW copy.
 4. The original was put up on [thumper.bellcore.com](http://thumper.bellcore.com) but amazingly the wayback machine doesn't seem to have much captured from that important early net site.
 
 # References
