@@ -37,5 +37,9 @@ paginate = "10"
   name = "Eitan Adler"
   bio = "human. occasionally helpful."
 
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
 [build]
 writeStats = true
