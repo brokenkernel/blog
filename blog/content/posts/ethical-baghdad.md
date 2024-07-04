@@ -15,7 +15,7 @@ Which I found at the above quoted 'guppylake' website[^1]. However when I found 
 
 The wayback machine only first finds a reference to [guppylake in 2008](https://web.archive.org/web/20080510205450/https://www.guppylake.com/~nsb/CSCW-ATOMICMAIL.txt) despite originating in 1996.
 
-I ended up emailing the author and asking about this discrepancy. Here is what we found out:
+I ended up emailing[^3] the author and asking about this discrepancy. Here is what we found out:
 
 1. The quote was included as a footnote in the original article, which was probably submitted in 1995
 2. The footnote was apparently omitted from the CSCW publication!
@@ -27,3 +27,4 @@ I ended up emailing the author and asking about this discrepancy. Here is what w
 
 [^1]: Nathaniel S. Borenstein. (n.d.). Computational Mail as Network Infrastructure  for Computer-Supported Cooperative Work - text. Retrieved 26 April 2023, from https://www.guppylake.com/~nsb/CSCW-ATOMICMAIL.txt
 [^2]: Nathanial S. Borenstein (1992). Computational mail as network infrastructure for computer-supported cooperative work. Proceedings of the 1992 ACM Conference on Computer-Supported Cooperative Work, 67–74. https://doi.org/10.1145/143457.143463
+[^3]: personal correspondence on 2023-04-27
