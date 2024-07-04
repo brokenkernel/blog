@@ -1,17 +1,15 @@
-<blockquote class="blockquote">
-	{{.Inner}}
-    {{ if .Get "source" }}
-    <footer class="blockquote-footer">
-		<cite title="Quelle: {{ with .Get "source"}}{{.}}{{ end }}">
-            {{ with .Get "src"}}
-                Weiterlesen auf
-                <a href="{{.}}" target="_blank" rel="noopener noreferrer">
-            {{ end }}
-            {{ with .Get "source" }}{{.}}{{ end }}
-            {{ with .Get "src"}}
-                </a>
-            {{ end }}
-		</cite>
-	</footer>
+{{ with .Get "citeurl" }}
+  <blockquote class="blockquote" cite="{{.}}">
+{{ else }}
+  <blockquote class="blockquote">
+{{ end }}
+{{.Inner }}
+{{ if or (.Get "author") (.Get "citeurl") }}
+  <footer class="blockquote-footer">
+    {{ with .Get "author" }}
+      &mdash; {{.}}
     {{ end }}
+    <cite><a href="{{.Get "citeurl"}}">{{.Get "citetext"}}</a></cite>
+  </footer>
+{{ end }}
 </blockquote>
