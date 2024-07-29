@@ -1,11 +1,17 @@
 baseURL = "https://blog.brokenkernel.com"
-languageCode = "en-US"
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
 title = "pop %eax"
 theme = "mainroad"
 
 enableInlineShortcodes = true
 enableGitInfo = true
 enableMissingTranslationPlaceholders = true
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    languageCode = "en-US"
 
 [Params]
   subtitle = "32 bits of writing"
