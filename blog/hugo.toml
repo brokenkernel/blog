@@ -7,9 +7,6 @@ enableInlineShortcodes = true
 enableGitInfo = true
 enableMissingTranslationPlaceholders = true
 
-paginate = "10"
-
-
 [Params]
   subtitle = "32 bits of writing"
   description = "testing things"
@@ -37,6 +34,9 @@ paginate = "10"
 [Params.author]
   name = "Eitan Adler"
   bio = "human. occasionally helpful."
+
+[Paginator]
+  pagerSize = 10
 
 [markup]
   [markup.goldmark.renderer]
