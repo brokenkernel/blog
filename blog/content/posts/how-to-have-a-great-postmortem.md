@@ -96,3 +96,4 @@ Try these:
  *Debriefing Facilitation Guide*. Etsy. [https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
 1. John Allspaw. (2021, January 11). Understanding Incidents: Three Analytical Traps \[Adaptive Capacity Labs\].
 1. Richard I. Cook. (2008). A brief look at the New Look in complex system failure, error, safety, and resilience Revision W.
+1. Fred Hebert. (2024, May 30). The Review Is the Action Item. My Bad Opinions. https://ferd.ca/the-review-is-the-action-item.html
