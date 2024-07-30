@@ -11,10 +11,10 @@
   color: var(--wk-accent-color-3);
 }
 
-:is(h1, h2, h3, h4, h5, h6)>a{
+.post-header>a{
   opacity: 0;
 }
 
-:is(h1, h2, h3, h4, h5, h6)>a:hover{
+.post-header>a:hover{
   opacity: 100;
 }

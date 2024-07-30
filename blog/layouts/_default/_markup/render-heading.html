@@ -1,5 +1,5 @@
 <!-- https://tekki-tipps.de/en/hugo-header-anchor-links/#markdown-render-hook-template -->
-<h{{ .Level }} id="{{ .Anchor | safeURL }}">{{ .Text | safeHTML }}
+<h{{ .Level }} id="{{ .Anchor | safeURL }}" class="post-header">{{ .Text | safeHTML }}
   <a href="#{{ .Anchor | safeURL }}">
     <!-- https://icons.getbootstrap.com/icons/link/ -->
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link" viewBox="0 0 16 16">
