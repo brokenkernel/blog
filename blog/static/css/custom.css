@@ -15,6 +15,6 @@
   opacity: 0;
 }
 
-.post-header>a:hover{
+.post-header>a:hover, .post-header>a:active, .post-header>a:focus{
   opacity: 1;
 }
