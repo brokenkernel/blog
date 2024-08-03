@@ -67,7 +67,7 @@ Alternatively, consider the use of 'COMEFROM'. [^8]
 
 [^4]: Dijkstra, E. W. (2002). EWD 1308: What Led to “Notes on Structured Programming”. In M. Broy & E. Denert (Eds.), Software Pioneers (pp. 340–346). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-59412-0_19
 
-[^5]: MISRA C:2012: Guidelines for the use of the C language in critical systems. (2013).
+[^5]: MISRA C:2012: Guidelines for the use of the C language in critical systems. (2013).  Rule 15.5
 
 [^6]: Dijkstra, E. W. (1972). Chapter I: Notes on structured programming. In Structured programming (pp. 1–82). Academic Press Ltd.
 
