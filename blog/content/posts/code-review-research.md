@@ -31,9 +31,11 @@ The vast majority of code review research has to do with finding and preventing 
 
 # What Affects Code Review?
 
-**Cognitive Load** For small changes a guided checklist and higher cognitive load were more helpful, for large changes, the checklist proved to be more efficient and to lower cognitive load, while the guided checklist led to lower effectiveness. [^4] This is probably because the small code review is associated with actually understanding the code rather than mechanical checks.  For larger changes it was to avoid missing things as you go through the diff Ordering Matters. Code listed first is likely to have more careful review done. Defects in later files are less likely to be found. [^5]
+**Cognitive Load** For small changes a guided checklist and higher cognitive load were more helpful, for large changes, the checklist proved to be more efficient and to lower cognitive load, while the guided checklist led to lower effectiveness. [^4] This is probably because the small code review is associated with actually understanding the code rather than mechanical checks.  For larger changes it was to avoid missing things as you go through the diff
 
-If I were designing from scratch I might order files to review starting from "most changed" or "most modified file churn" or something similar instead of alphabetical.  At least, I would point out more clearly the files more likely to have bugs.
+**Ordering Matters**. Code listed first is likely to have more careful review done. Defects in later files are less likely to be found. [^5]
+
+One idea to improve things might be to order the files to review starting from "most changed" or "most modified file churn" or something similar instead of alphabetical.  At least, point out more clearly the files more likely to have bugs.
 
 **Time** The biggest killer to code review is time. There is a linear relationship between how much time you spend reviewing code and the ability to find defects for the first hour or so. [^3]<sup>pp770</sup> After this there is a sharp dropoff. This is likely because of focus fatigue.
 
