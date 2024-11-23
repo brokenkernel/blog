@@ -1,5 +1,5 @@
 +++
-title = "Single Exit, Single Exit"
+title = "Single Entry, Single Exit"
 date =  2024-08-03T10:15:27-07:00
 +++
 
