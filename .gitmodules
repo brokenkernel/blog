@@ -1,6 +1,6 @@
 [submodule "blog/themes/mainroad"]
-	path = blog/themes/mainroad
+	path = themes/mainroad
 	url = https://github.com/vimux/mainroad
 [submodule "blog/themes/roadster"]
-	path = blog/themes/roadster
+	path = themes/roadster
 	url = https://github.com/mansoorbarri/roadster.git
