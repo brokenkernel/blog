@@ -25,12 +25,22 @@ How do you make input comprehensible?
 - Easy vocabulary and syntax.
 - Background knoledge. Learning about something you.
 - Good stories.
+- Natural repetition
+
+## What makes good input?
+
+- Comprehensible
+- Compelling
+- Rich
+- Abundant
+
 
 # What doesn't work?
 
 - Talking!  It will not help you to speak. Speaking emerges from input.
 - Drills and exercises
 - Grammmar teaching
+- Forced repetition
 
 # So I shouln't bother speaking? What about immersion?
 
@@ -125,3 +135,4 @@ Currently not everything on this page is sourced but the intent is that it shoul
 1. Horner, D. (1987). Acquisition, learning and the monitor: A critical look at Krashen. System, 15(3), 339–349. https://doi.org/10.1016/0346-251X(87)90008-X
 1. Chapter 5: Stages and Strategies in Second-Language Acquisition. (2008). In Jane Donnelly Hill & Cynthia Linnea Björk, Classroom Instruction That Works with English Language Learners Participant’s Workbook (Workbook edition). ASCD.
 1. Stephen D. Krashen. (1984). Principles and practice in second language acquisition (Reprinted). In Language teaching methodology series. Pergamon Press.
+1. Stephen Krashen, Beniko Mason, & Ken Smith. (2018). Some new terminology: comprehensionaiding supplementation and form-focusing supplementation. Language Learning and Teaching, 60(6), 12–13. https://www.benikomason.net/content/articles/pdf_new_terminology_2018._llt_copy.pdf
