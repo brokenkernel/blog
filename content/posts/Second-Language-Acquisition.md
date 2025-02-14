@@ -74,6 +74,23 @@ Conscious knowledge of the rules of language.
 
 Correctly transmitting the intent of your communication.
 
+# The Four Skills
+
+```mermaid
+flowchart LR;
+    subgraph Input
+    Listening
+    Reading
+    end
+
+    subgraph "Output/Production"
+    Speaking{"Speaking/Oral"}
+    Writing
+    end
+
+    Listening --> Speaking
+    Reading --> Writing
+```
 
 # Technical Terms
 
