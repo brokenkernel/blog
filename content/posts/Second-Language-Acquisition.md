@@ -1,5 +1,5 @@
 +++
-title = "Learning a Second Language"
+title = "Second Language Acquisition"
 date =  2025-02-13T13:46:27-08:00
 +++
 
@@ -60,7 +60,7 @@ The process by humans acquire the ability to comprehend _and produce_ language.
 
 > Language Learning
 
-The result of direct instruction in the rules of language.
+Conscious knowledge of the rules of language.
 
 > Communicative Skill
 
