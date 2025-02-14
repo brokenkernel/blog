@@ -54,6 +54,8 @@ The real trick is finding something that you'll find interesting enough to actua
 
 also consider the distinction between
 
+# Technical Terms
+
 > Language Acquisition
 
 The process by humans acquire the ability to comprehend _and produce_ language.
@@ -66,8 +68,25 @@ Conscious knowledge of the rules of language.
 
 Correctly transmitting the intent of your communication.
 
-
 Affective filter
+
+> Natural order hypothesis
+
+Every language has a fixed order of acquisition. Every learner acquires rules in the same way.
+
+> Early acquired
+
+> Late acquired
+
+> Monitor hypothesis
+
+In order to "monitor" your own language (by using your _learned_ rules) you need specific conditions.
+
+Conditions for monitor use:
+
+- know the rule
+- time to use the rule
+- be focused on the correctness and not on the content
 
 # Sources
 
