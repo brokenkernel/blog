@@ -90,7 +90,8 @@ Conditions for monitor use:
 
 # Sources
 
-Currently not everything on this page is sourced but the intent is that it should be more so over time.
+Currently not everything on this page is sourced but the intent is that it should be more so over time. I have not read every source in full.
 
 1. John W. Schwieter & Alessandro Benati (Eds.). (2019). The Cambridge Handbook of Language Learning (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108333603
-2. A Nail in the Coffin Part 1 – CI Increases ENROLLMENT – Grant Boulanger. (2017, November 8). http://www.grantboulanger.com/a-nail-in-the-coffin-part-1-ci-increases-enrollment/
+1. A Nail in the Coffin Part 1 – CI Increases ENROLLMENT – Grant Boulanger. (2017, November 8). http://www.grantboulanger.com/a-nail-in-the-coffin-part-1-ci-increases-enrollment/
+1. Horner, D. (1987). Acquisition, learning and the monitor: A critical look at Krashen. System, 15(3), 339–349. https://doi.org/10.1016/0346-251X(87)90008-X
