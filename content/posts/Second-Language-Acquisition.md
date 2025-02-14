@@ -54,8 +54,6 @@ The real trick is finding something that you'll find interesting enough to actua
 
 also consider the distinction between
 
-# Technical Terms
-
 > Language Acquisition
 
 The process by humans acquire the ability to comprehend _and produce_ language.
@@ -68,7 +66,8 @@ Conscious knowledge of the rules of language.
 
 Correctly transmitting the intent of your communication.
 
-Affective filter
+
+# Technical Terms
 
 > Natural order hypothesis
 
