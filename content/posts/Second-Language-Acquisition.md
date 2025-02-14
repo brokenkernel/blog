@@ -17,7 +17,14 @@ By understanding messages. When we understand what people tell us in a low anxie
 
 # What helps?
 
-- Having real world guides (pictures, dolls, etc.)
+How do you make input comprehensible?
+
+- Gestures
+- Visuals
+- Clarity and speed of speech.
+- Easy vocabulary and syntax.
+- Background knoledge. Learning about something you.
+- Good stories.
 
 # What doesn't work?
 
@@ -38,6 +45,7 @@ What counts is not what you _say_ but in what you _comprehend from its response_
 ## Affective Filter
 
 Learners might be distracted by emotional factors in language learning process. It is possible that students would not be able to absorb what they should learn in class because of their teacher’s uncongenial manners or classmates’ aggressive and competitive attitudes.
+
 
 # Misc
 
