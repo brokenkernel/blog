@@ -13,7 +13,7 @@ We all acquire language in the same way. In the same way we learn our first lang
 
 # How do we acquire language?
 
-By understanding messages. When we understand what people tell us in a low anxiety environment. This is called "comprehensible input"
+By understanding messages. When we understand what people tell us in a low anxiety environment. This is called "comprehensible input". It can be both listening and reading.
 
 # What helps?
 
@@ -87,6 +87,10 @@ Conditions for monitor use:
 - time to use the rule
 - be focused on the correctness and not on the content
 
+> Silent Period
+
+The period between between the time that you first start hearing language and the time that you're able to produce language spontaneously automatically without thinking about it.
+
 # Sources
 
 Currently not everything on this page is sourced but the intent is that it should be more so over time. I have not read every source in full.
@@ -95,3 +99,4 @@ Currently not everything on this page is sourced but the intent is that it shoul
 1. A Nail in the Coffin Part 1 – CI Increases ENROLLMENT – Grant Boulanger. (2017, November 8). http://www.grantboulanger.com/a-nail-in-the-coffin-part-1-ci-increases-enrollment/
 1. Horner, D. (1987). Acquisition, learning and the monitor: A critical look at Krashen. System, 15(3), 339–349. https://doi.org/10.1016/0346-251X(87)90008-X
 1. Chapter 5: Stages and Strategies in Second-Language Acquisition. (2008). In Jane Donnelly Hill & Cynthia Linnea Björk, Classroom Instruction That Works with English Language Learners Participant’s Workbook (Workbook edition). ASCD.
+1. Stephen D. Krashen. (1984). Principles and practice in second language acquisition (Reprinted). In Language teaching methodology series. Pergamon Press.
