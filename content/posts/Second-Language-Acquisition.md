@@ -3,6 +3,14 @@ title = "Second Language Acquisition"
 date =  2025-02-13T13:46:27-08:00
 +++
 
+Second Language Acquisition is the science of how one acquires the ability to both understand and produce a language that isn't one's native language.
+
+<!--more-->
+
+{{< notice info >}}
+This is a draft/living article. It is not yet fully sourced or complete.
+{{< /notice >}}
+
 # Meta Comment
 
 I'm by no means an expert on the topic of language acquisition but I've read some basics. This is a summary of what I understand so far
@@ -114,9 +122,7 @@ Every language has a fixed order of acquisition. Every learner acquires rules in
 
 > Monitor hypothesis
 
-In order to "monitor" your own language (by using your _learned_ rules) you need specific conditions.
-
-Conditions for monitor use:
+In order to "monitor" your own language (by using your _learned_ rules) you need specific conditions: [^krashenppila1]:
 
 - know the rule
 - time to use the rule
@@ -136,3 +142,9 @@ Currently not everything on this page is sourced but the intent is that it shoul
 1. Chapter 5: Stages and Strategies in Second-Language Acquisition. (2008). In Jane Donnelly Hill & Cynthia Linnea Björk, Classroom Instruction That Works with English Language Learners Participant’s Workbook (Workbook edition). ASCD.
 1. Stephen D. Krashen. (1984). Principles and practice in second language acquisition (Reprinted). In Language teaching methodology series. Pergamon Press.
 1. Stephen Krashen, Beniko Mason, & Ken Smith. (2018). Some new terminology: comprehensionaiding supplementation and form-focusing supplementation. Language Learning and Teaching, 60(6), 12–13. https://www.benikomason.net/content/articles/pdf_new_terminology_2018._llt_copy.pdf
+1. Jennifer M. Sevilla. (1996). Involuntary rehearsal of second language at the elementary level: Do elementary school children experience the din in the head? System, 24(1), 101–105. https://doi.org/10.1016/0346-251X(95)00055-O
+1. Stephen D. Krashen. (1982). Principles and practice in second language acquisition (1st ed). In Language teaching methodology series. Pergamon.
+
+# Citations
+
+[^krashenppila1]:  Stephen D. Krashen. (1982). Principles and practice in second language acquisition (1st ed). In Language teaching methodology series. Pergamon. (pp 16)
