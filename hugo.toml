@@ -2,7 +2,7 @@ baseURL = "https://blog.brokenkernel.com"
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 title = "pop %eax"
-theme = "roadster"
+theme = [ "hugo-notice", "roadster" ]
 
 enableInlineShortcodes = true
 enableGitInfo = true
