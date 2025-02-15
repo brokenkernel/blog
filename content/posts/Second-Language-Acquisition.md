@@ -94,7 +94,7 @@ flowchart LR;
     end
 
     subgraph "Output/Production"
-    Speaking{"Speaking/Oral"}
+    Speaking["Speaking/Oral"]
     Writing
     end
 
