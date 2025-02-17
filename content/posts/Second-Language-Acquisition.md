@@ -19,8 +19,6 @@ I'm by no means an expert on the topic of language acquisition but I've read som
 
 We all acquire language in the same way. In the same way we learn our first language.
 
-# How do we acquire language?
-
 By understanding messages. When we understand what people tell us in a low anxiety environment. This is called "comprehensible input". It can be both listening and reading.
 
 # What helps?
@@ -42,7 +40,6 @@ How do you make input comprehensible?
 - Rich
 - Abundant
 
-
 # What doesn't work?
 
 - Talking!  It will not help you to speak. Speaking emerges from input.
@@ -63,7 +60,6 @@ What counts is not what you _say_ but in what you _comprehend from its response_
 ## Affective Filter
 
 Learners might be distracted by emotional factors in language learning process. It is possible that students would not be able to absorb what they should learn in class because of their teacher’s uncongenial manners or classmates’ aggressive and competitive attitudes.
-
 
 # Misc
 
