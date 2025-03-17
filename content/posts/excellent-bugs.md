@@ -10,8 +10,7 @@ Many bugs are confusing. Others are are annoying. Some are just impossible. This
  iOS device in facility
 2. [We can't send mail more than 500 miles](http://web.mit.edu/jemorris/humor/500-miles)
 3. [OpenOffice.org can't print on Tuesday](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161")
-(see [comment 28](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28))
-4. [I can't log in when I stand up](https://www.reddit.com/r/talesfromtechsupport/comments/3v52pw/i_cant_log_in_when_i_stand_up/) (and
+(see [comment 28](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28)) 4. [I can't log in when I stand up](https://www.reddit.com/r/talesfromtechsupport/comments/3v52pw/i_cant_log_in_when_i_stand_up/) (and
  another [similar story](https://books.google.co.uk/books?id=kse_7qbWbjsC&lpg=PA56&ots=DhvZuTyM9x&pg=PA56"))
 5. [A story about "magic"](http://www.catb.org/jargon/html/magic-story.html)
 6. [Print this file, your printer will jam](https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html)
@@ -29,6 +28,10 @@ Many bugs are confusing. Others are are annoying. Some are just impossible. This
 18. Turn off the [screensaver on your server](http://thedailywtf.com/articles/I-Love-the-Smell-of-Popcorn-in-the-Morning)
 19. AMD CPU [accidently updates the stack pointer](thread.gmane.org/gmane.os.dragonfly-bsd.kernel/14471)
 20. [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
+21. [The October 10th Bug](https://web.archive.org/web/20200521055627/https://lawlessguy.wordpress.com/2015/10/10/the-october-10th-bug/)
+Other Famous Bugs
+
+1. [Intel Pentium FDIV bug](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)
 
 Humourous Bugs:
 
@@ -36,6 +39,7 @@ Humourous Bugs:
 
 Other lists of fun bugs:
 
-1. [Classic Bug Reports](https://blog.regehr.org/archives/1270)
+1. [Classic Bug Reports by John Regehr](https://blog.regehr.org/archives/1270)
+1. [Software Folklore by Andreas Zwinkau](https://beza1e1.tuxen.de/lore/index.html)
 
 Know of any more? File a bug!
