@@ -114,7 +114,11 @@ Every language has a fixed order of acquisition. Every learner acquires rules in
 
 > Early acquired
 
+These are topics learned early in the journey of language learning.
+
 > Late acquired
+
+These are topics learned later on in the journey of language learning.
 
 > Monitor hypothesis
 

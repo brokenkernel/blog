@@ -19,7 +19,7 @@ This is when the investigator discusses events that _never occurred_. For exampl
 If the operator had clicked the button the outage would not have happened
 {{< /quote >}}
 
-2. Normative Language [^2]
+1. Normative Language [^2]
 
 This is when the investigator inserts their own values into. For example:
 
@@ -30,7 +30,7 @@ The crew mismanaged the plane during ascent.
 Here the phrase _mismanaged_ indicates that the crew did something wrong. Instead it would be better to explain why the crew thought what they did was actually correct.
 The high level idea of incident analysis and investigating is assuming that all actions made sense at the time they took place and understanding _why_ that it so.
 
-3. Mechanistic reasoning [^3]
+1. Mechanistic reasoning [^3]
 
 This flaw is assuming that if the subcomponents of the system were operating correctly and safely then the accident would not have occurred. For example:
 
@@ -42,7 +42,7 @@ Here we assume that if only the operator was clueful about the system, then ever
 
 and a bonus:
 
-4. Cherry Picking Data [^4]
+1. Cherry Picking Data [^4]
 
 This one is easy: only revealing the data that is relevant to the pre-conceived point one is trying to make.
 

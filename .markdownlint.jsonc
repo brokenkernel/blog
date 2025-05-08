@@ -8,10 +8,4 @@
   // single top level in same doc
   "single-h1": false,
   "no-bare-urls": false,
-  "no-trailing-punctuation": false,
-
-  // temporary
-  "MD029": false,
-  "MD013": false,
-  "MD028": false,
 }
