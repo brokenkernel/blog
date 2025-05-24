@@ -29,6 +29,7 @@ Many bugs are confusing. Others are are annoying. Some are just impossible. This
 1. AMD CPU [accidently updates the stack pointer](thread.gmane.org/gmane.os.dragonfly-bsd.kernel/14471)
 1. [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 1. [The October 10th Bug](https://web.archive.org/web/20200521055627/https://lawlessguy.wordpress.com/2015/10/10/the-october-10th-bug/)
+1. [Xenon Flash Death Flash](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/)
 Other Famous Bugs
 
 1. [Intel Pentium FDIV bug](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)
