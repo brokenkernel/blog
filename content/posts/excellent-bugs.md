@@ -4,7 +4,7 @@ date: 2020-09-09T21:22:29-07:00
 ---
 
 Some bugs are interesting. Others are annoying. Some are fun. Some are just impossible.
-Many bugs are confusing. Others are are annoying. Some are just impossible. This is a list of those bugs:<br />
+Many bugs are confusing. Others are annoying. Some are just impossible. This is a list of those bugs:<br />
 
 1. [MRI disabled](https://www.reddit.com/r/sysadmin/comments/9mk2o7/mri_disabled_every_ios_device_in_facility/) every
 1iOS device in facility

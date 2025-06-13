@@ -3,22 +3,22 @@ title: "How to Have a Great Postmortem"
 date: 2024-07-28T18:26:56-07:00
 ---
 
-The goal of a post-mortem is an opportunity for a team (or the broader organization) to learn as much as they can, in a relatively short period of time, about how people normally perceive and perform their work. This is because the people involved were in their normal work when the incident happened. Questions should focus on the ways that the organization prevents this sort of event from happening all the time, not by asking what allowed this singular event to happen.
+The goal of a post-mortem is an opportunity for a team (or the broader organisation) to learn as much as they can, in a relatively short period of time, about how people normally perceive and perform their work. This is because the people involved were in their normal work when the incident happened. Questions should focus on the ways that the organization prevents this sort of event from happening all the time, not by asking what allowed this singular event to happen.
 
 ## Successful Post Mortem
 
-At the end of the post mortem you should ask everyone involved two questions:
+At the end of the post-mortem, you should ask everyone involved two questions:
 
-1. Did at least one person learn one thing that will affect how they work in the future?
+1. Did at least one person learn one thing that will affect how they will work in the future?
 1. Did at least half of the attendees say they would attend another debrief in the future?
 
-If the answer to both questions is **yes** then the post mortem is successful.
+If the answer to both questions is **yes** then the post-mortem is successful.
 
-While many post mortems will result in remediation steps to take, this isn’t the **goal**. Its merely one way the organization can take action on the fact that it has learned.
+While many post-mortems will result in remediation steps to take, this isn’t the **goal**. Its merely one way the organization can take action on the fact that it has learned.
 
 ## Who should write the Post Mortem?
 
-The author of the post mortem should ideally be someone who
+The author of the post-mortem should ideally be someone who
 
 * was not involved in incident mitigation or resolution.
 * is trusted by those were

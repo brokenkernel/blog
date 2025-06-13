@@ -11,9 +11,9 @@ There is an old joke:
 It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 {{< /quote >}}
 
-Which I found at the above quoted 'guppylake' website[^1]. However when I found the CSCW '92[^2] scan of the same article the quote itself is missing (and the text differs in other slight ways as well). All other references to the quote drastically postdate both of the previous references.
+Which I found at the above quoted 'guppylake' website[^1]. However, when I found the CSCW '92[^2] scan of the same article the quote itself is missing (and the text differs in other slight ways as well). All other references to the quote drastically postdate both of the previous references.
 
-The wayback machine only first finds a reference to [guppylake in 2008](https://web.archive.org/web/20080510205450/https://www.guppylake.com/~nsb/CSCW-ATOMICMAIL.txt) despite originating in 1996.
+The Wayback Machine only first finds a reference to [guppylake in 2008](https://web.archive.org/web/20080510205450/https://www.guppylake.com/~nsb/CSCW-ATOMICMAIL.txt) despite originating in 1996.
 
 I ended up emailing[^3] the author and asking about this discrepancy. Here is what we found out:
 

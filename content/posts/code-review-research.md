@@ -13,7 +13,7 @@ This post was written in reply to a specific post discussing removing code revie
 
 Some of this reply is based on my own reading in the fields of cognitive science, resilience engineering, and safety engineering. It also presupposes you already have some trust in the general idea of Empirical Software Engineering.
 
-If you're not familiar with the topic, the single best introduction I could give is a talk by Hillel Wayne entitled <cite>Intro to Empirical Software Engineering: What We Know We Don't Know</cite>. [^1] I can't normally stand watching talks but this one stands out amongst the crowd. It also directly addresses the point (around 27 minutes in). Unfortunately, as the talk and book points out, much of the research is not great or not existent. Studies are often, though not always, done on students or newer programmers (samples of convenience). Nonetheless there is some consensus on specific areas.
+If you're not familiar with the topic, the single best introduction I could give is a talk by Hillel Wayne entitled <cite>Intro to Empirical Software Engineering: What We Know We Don’t Know</cite>. [^1] I can't normally stand watching talks but this one stands out amongst the crowd. It also directly addresses the point (around 27 minutes in). Unfortunately, as the talk and book points out, much of the research is not great or not existent. Studies are often, though not always, done on students or newer programmers (samples of convenience). Nonetheless there is some consensus on specific areas.
 
 # Goals of Code Review
 
@@ -27,7 +27,7 @@ The vast majority of code review research has to do with finding and preventing 
 
 **Subjective Experience** Developers generally find it valuable. The review quality is mainly associated with the thoroughness of the feedback, the reviewer’s familiarity with the code, and the perceived quality of the code itself. Developers often struggle with managing their personal priorities, maintaining their technical skill set, and mitigating context switching. [^6]
 
-**False positives**. Misunderstandings by the reviewer are between 15 to 30%  [^7][^8].  On the other hand, fixing such a misunderstanding is perhaps worth it?
+**False positives**. Misunderstandings by the reviewer are between 15 to 30% [^7][^8].  On the other hand, fixing such a misunderstanding is perhaps worth it?
 
 # What Affects Code Review?
 
@@ -43,7 +43,7 @@ One idea to improve things might be to order the files to review starting from "
 
 # Impact On Defects
 
-**Organisational Structure** One of the few metrics we have that reliability identifies defects in code is Organizational Structure.  In particular the more people that touch specific binaries (both now and across time), the further apart those people are, and so on, the more likely defects are. [^2] I mention this because I mostly think of code review in larger organisations with modern review tooling. Doing the same at a tiny startup with many fewer people touching the code (and with much more shared domain knowledge) may have a different impact.
+**Organisational Structure** One of the few metrics we have that reliability identifies defects in code is Organisational Structure. In particular the more people that touch specific binaries (both now and across time), the further apart those people are, and so on, the more likely defects are. [^2] I mention this because I mostly think of code review in larger organisations with modern review tooling. Doing the same at a tiny startup with many fewer people touching the code (and with much more shared domain knowledge) may have a different impact.
 
 # References
 
