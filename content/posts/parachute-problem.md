@@ -1,22 +1,21 @@
 +++
 title = "Parachute Problem"
 date =  2024-08-05T09:26:44-07:00
-draft = true
 +++
 
-As a general rule we try not believe things without sufficient evidence. What defines sufficient evidence is complicated. [^emp1]
+As a general rule, we try to not believe things without sufficient evidence. What defines sufficient evidence is complicated. [^emp1]
 
-However, not everything can discovered via direct comparison.
+However, not everything can be discovered via direct comparison, randomised trials, or similar efforts.
 
 {{< quote >}}
 
-Software Engineering is its own discipline and trying to directly transplant e.g., medical research techniques are not conducive to generating understanding. "It needs to be studied with tools that borrow as much from the social and cognitive sciences as they do from the mathematical theories of computation"
+Software Engineering is its own discipline and trying to directly transplant, e.g. medical research techniques aren’t conducive to generating understanding. "It needs to be studied with tools that borrow as much from the social and cognitive sciences as they do from the mathematical theories of computation."
 
 {{< /quote >}}
 
-Sometimes things are so useful, or so obvious, that you won't find research supporting the claim.
+Sometimes things are so useful, or so obvious, that you won’t find research supporting the claim. For example, no evidence that parachutes actually prevent death from falling exists. [^para1] [^para2]
 
-For example there is no evidence that parachutes actually prevent death from falling. [^para1] [^para2]
+Similarly “obviously good” practices, such as using tests, exist in software engineering.
 
 [^emp1]: Tim Menzies & Forrest Shull. (2011). Chapter 1: The Quest for Convincing Evidence. In Andy Oram & Greg Wilson (Eds.), Making software: what really works, and why we believe it: Theory in practice (1st ed). O’Reilly.
 
