@@ -1,6 +1,7 @@
 +++
 title = "All the Failing Features"
 date =  2024-08-04T10:19:29-07:00
+slug = "all-the-failing-features"
 +++
 
 All the failing features, all the failing features\
