@@ -14,7 +14,7 @@ Software Engineering is its own discipline and trying to directly transplant, e.
 {{< /quote >}}
 
 Sometimes things are so useful, or so obvious, that you won’t find research supporting the claim. For example, no evidence that parachutes actually prevent death from falling exists. [^para1]
-In fact, in one study, it was shown that parachutes do not recuce injury above a normal backpack. [^para2]
+In fact, in one study, it was shown that parachutes do not reduce injury above a normal backpack. [^para2]
 
 Similarly, “obviously good” practices, such as using tests, exist in software engineering.
 
