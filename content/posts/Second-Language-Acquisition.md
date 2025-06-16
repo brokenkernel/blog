@@ -29,7 +29,7 @@ How do you make input comprehensible?
 - Visuals
 - Clarity and speed of speech.
 - Easy vocabulary and syntax.
-- Background knoledge. Learning about something you.
+- Background knowledge. Learning about something you.
 - Good stories.
 - Natural repetition
 
@@ -59,14 +59,14 @@ What counts is not what you _say_ but in what you _comprehend from its response_
 
 ## Affective Filter
 
-Learners might be distracted by emotional factors in language learning process. It is possible that students would not be able to absorb what they should learn in class because of their teacher’s uncongenial manners or classmates’ aggressive and competitive attitudes.
+Learners might be distracted by emotional factors in language learning process. Students might not be able to absorb what they should learn in class because of their teacher’s uncongenial manners or classmates’ aggressive and competitive attitudes.
 
 # Misc
 
-The real trick is finding something that you'll find interesting enough to actually focus on but is just above your level so you're able to understand and stretch yourself (edited)
+The real trick is finding something that you'll find interesting enough to actually focus on but is just above your level, so you're able to understand and stretch yourself (edited)
 
 - Focus on comprehensible input: reading and listening
-- Stretch the limit, but not too much. You should previously understand about 90-95% of the content of the message
+- Stretch the limit, but not too much. You should previously understand about 90-95% of the content of the message.
 - It takes roughly 12 messages to fully learn a word
 - Phrases and sentences are better than words
 - Don't don't teach vocabulary and especially don't translate word-by-word

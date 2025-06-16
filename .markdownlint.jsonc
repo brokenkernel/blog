@@ -8,4 +8,5 @@
   // single top level in same doc
   "single-h1": false,
   "no-bare-urls": false,
+  "no-trailing-punctuation": false
 }

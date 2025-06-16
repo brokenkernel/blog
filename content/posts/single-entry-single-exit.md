@@ -18,20 +18,20 @@ Single Entry referred to their being only a single entrypoint to a method (recal
 Here is a pseudocode example of the types of code that was being argued against. (I don't know the languages like Fortran where this used to be more common).
 
 ```C
-FILE* fle;
+FILE* file;
 
 int do_a_thing_with_a_file() {
   int num;
   int tmp;
 
-  fle = fopen("filename","r");
-  if (!fle) {
+  file = fopen("filename","r");
+  if (!file) {
     goto file_not_open;
   }
 
   already_open:
 
-  tmp = fread(&num, sizeof(int), 1, fle);
+  tmp = fread(&num, sizeof(int), 1, file);
 
   if (tmp == 0) {
     goto file_not_read;
