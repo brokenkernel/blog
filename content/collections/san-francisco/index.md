@@ -34,6 +34,8 @@ San Francisco Things
 - [SF Streets Blog](https://sf.streetsblog.org)
 - [SF MTA Bus Rules](https://www.sfmta.com/sites/default/files/reports-and-documents/2017/12/bus_rules_and_instructions_handbook.pdf)
 - [Gov Graph](https://sfgov.civlab.org/)
+- [Seamless Bay Area](https://www.seamlessbayarea.org/)
+- [SF Transit Riders](https://sftransitriders.org/)
 
 ## Volunteering
 
