@@ -26,7 +26,7 @@ Many bugs are confusing. Others are annoying. Some are just impossible. This is 
 1. [saving corrupts the memory card](https://www.quora.com/Programming-Interviews/Whats-the-hardest-bug-youve-debugged/answer/Dave-Baggett)
 1. A [specific table](https://allenpike.com/2018/the-great-bug-hunt) causes the XBox to crash
 1. Turn off the [screensaver on your server](http://thedailywtf.com/articles/I-Love-the-Smell-of-Popcorn-in-the-Morning)
-1. AMD CPU [accidently updates the stack pointer](thread.gmane.org/gmane.os.dragonfly-bsd.kernel/14471)
+1. AMD CPU [accidentally updates the stack pointer](thread.gmane.org/gmane.os.dragonfly-bsd.kernel/14471)
 1. [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 1. [The October 10th Bug](https://web.archive.org/web/20200521055627/https://lawlessguy.wordpress.com/2015/10/10/the-october-10th-bug/)
 1. [Xenon Flash Death Flash](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/)
