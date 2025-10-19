@@ -1,6 +1,7 @@
 +++
 title = "Single Entry, Single Exit"
 date =  2024-08-03T10:15:27-07:00
+tags = ["Fact Checking"]
 +++
 
 # Intro

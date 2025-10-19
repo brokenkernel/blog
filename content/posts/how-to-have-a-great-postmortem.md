@@ -1,7 +1,8 @@
----
-title: "How to Have a Great Postmortem"
-date: 2024-07-28T18:26:56-07:00
----
++++
+title = "How to Have a Great Postmortem"
+date = "2024-07-28T18:26:56-07:00"
+tags = ["Idea Synthesis"]
++++
 
 The goal of a post-mortem is an opportunity for a team (or the broader organisation) to learn as much as they can, in a relatively short period of time, about how people normally perceive and perform their work. This is because the people involved were in their normal work when the incident happened. Questions should focus on the ways that the organization prevents this sort of event from happening all the time, not by asking what allowed this singular event to happen.
 

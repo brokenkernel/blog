@@ -1,7 +1,8 @@
----
-title: "Ethical Baghdad"
-date: 2024-07-03T22:39:57-07:00
----
++++
+title = "Ethical Baghdad"
+date = "2024-07-03T22:39:57-07:00"
+tags = ["Fact Checking"]
++++
 
 Over the last year or two I've been on a bit of a kick of reading the original sources for several common CS (or other) topics.  You'd be surprised about how many 'oft quoted' concepts don't have the origin you'd expect.
 

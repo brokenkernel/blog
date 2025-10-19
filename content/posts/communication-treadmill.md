@@ -1,7 +1,8 @@
----
-title: "Communication Treadmill"
-date: 2023-03-29T21:58:58-07:00
----
++++
+title = "Communication Treadmill"
+date = "2023-03-29T21:58:58-07:00"
+tags = ["Idea Synthesis"]
++++
 
 People pay attention to high value communication channels. These give them information about the job, hobby, etc. Since people pay attention to these channels, they get used more. Eventually they get used for something more borderline or inappropriate for the communication channel. When this happens people stop paying attention to the formerly high value channel and shift to new locations. Eventually the original channel is useless. Rinse and repeat for the new communication channel.
 
@@ -25,4 +26,4 @@ This can be solved in a few ways:
 1. moderation of the channel by someone who relies on the value of the channel
 2. introducing a cost to use the channel
 
-A closely related concept is that of "spammer logic". The receiver of a message is ultimately the only person that determines the importance of a message. If they opt not to receive the message but the sender sends it anyways they are utilising "spammer logic"
+A closely related concept is that of “*spammer logic*”. The receiver of a message is ultimately the only person that determines the importance of a message. If they opt not to receive the message but the sender sends it anyways they are utilising “*spammer logic*”.
