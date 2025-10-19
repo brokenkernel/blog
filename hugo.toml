@@ -4,7 +4,7 @@ defaultContentLanguageInSubdir = false
 title = "pop %eax"
 theme = [ "hugo-notice", "roadster" ]
 
-mainSections = ['til', 'collections', 'posts']
+mainSections = ['til', 'collections', 'posts', 'quotes']
 
 enableInlineShortcodes = true
 enableGitInfo = true
