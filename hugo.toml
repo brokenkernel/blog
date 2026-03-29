@@ -12,8 +12,8 @@ enableMissingTranslationPlaceholders = true
 
 [languages]
   [languages.en]
-    languageName = 'English'
-    languageCode = "en-US"
+    label = 'English'
+    locale = "en-US"
 
 [Params]
   subtitle = "32 bits of writing"
