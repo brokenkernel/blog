@@ -30,6 +30,7 @@ San Francisco Things
 - [SF Transit Interactive Story](https://sftransit.fun/)
 - [Find My Parking Cops](https://walzr.com/sf-parking/)
 - [911 call stream](https://walzr.com/sf-911)
+- [Sealions Webcam](https://www.pier39.com/sealions/)
 
 ## Government & Policy
 
@@ -39,6 +40,7 @@ San Francisco Things
 - [Seamless Bay Area](https://www.seamlessbayarea.org/)
 - [SF Transit Riders](https://sftransitriders.org/)
 - [SF Transparency / Political Accountability Tracker](https://transparencysf.askbobo.com/)
+- [San Francisco Planning Department GIS Tools](https://sfplanninggis.org/intro/)
 
 ## Volunteering
 
