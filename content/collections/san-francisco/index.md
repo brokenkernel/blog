@@ -94,3 +94,6 @@ San Francisco Things
 ## Plants In Pants In Plants
 
 ![A collection of potted plants in jeans in a garden](plants_in_pants_in_plants.jpg "A collection of potted plants in jeans in a garden")
+## Intersections of San Francisco
+
+![Intersections of San Francisco](intersections.png)
