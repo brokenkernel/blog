@@ -14,3 +14,4 @@ New York City Things
 
 - [Train Jazz](https://www.trainjazz.com/)
 - [NYC Pedestrian Traffic](https://data.maximumnewyork.com/pedestrian-traffic/)
+- [Single Ride](https://singleride.nyc/)
