@@ -32,6 +32,7 @@ San Francisco Things
 - [911 call stream](https://walzr.com/sf-911)
 - [Sealions Webcam](https://www.pier39.com/sealions/)
 - [Hiking By Transit — San Francisco](https://hikingbytransit.com/san-francisco/)
+
 ## Government & Policy
 
 - [SF Streets Blog](https://sf.streetsblog.org)
@@ -94,6 +95,7 @@ San Francisco Things
 ## Plants In Pants In Plants
 
 ![A collection of potted plants in jeans in a garden](plants_in_pants_in_plants.jpg "A collection of potted plants in jeans in a garden")
+
 ## Intersections of San Francisco
 
 ![Intersections of San Francisco](intersections.png)
