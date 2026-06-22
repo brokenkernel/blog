@@ -17,3 +17,4 @@ Ordle Games
 - [Pathordle](https://pathordle.org/)
 - [Wordle](https://www.nytimes.com/games/wordle/index.html)
 - [Wordle Unlimited](https://wordleunlimited.org/)
+- [Anthropeum](https://anthropeum.com/)
