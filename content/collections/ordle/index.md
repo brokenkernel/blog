@@ -18,3 +18,4 @@ Ordle Games
 - [Wordle](https://www.nytimes.com/games/wordle/index.html)
 - [Wordle Unlimited](https://wordleunlimited.org/)
 - [Anthropeum](https://anthropeum.com/)
+- [Putt — daily mini golf game](https://putt.day/)
