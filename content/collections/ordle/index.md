@@ -19,4 +19,5 @@ Ordle Games
 - [Wordle Unlimited](https://wordleunlimited.org/)
 - [Anthropeum](https://anthropeum.com/)
 - [Putt — daily mini golf game](https://putt.day/)
-- [transitle](https://www.transitle.nl/)
+- [Transitle](https://www.transitle.nl/)
+- [Gerrymandle](https://gerrymandle.cc/)
