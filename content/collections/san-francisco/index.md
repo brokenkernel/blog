@@ -42,6 +42,7 @@ San Francisco Things
 - [SF Transit Riders](https://sftransitriders.org/)
 - [SF Transparency / Political Accountability Tracker](https://transparencysf.askbobo.com/)
 - [San Francisco Planning Department GIS Tools](https://sfplanninggis.org/intro/)
+- [Senate Bill 79 Map](https://experience.arcgis.com/experience/934f95609d6b45c5be0f8f0030c01436/page/Page)
 
 ## Volunteering
 
