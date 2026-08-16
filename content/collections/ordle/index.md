@@ -21,3 +21,5 @@ Ordle Games
 - [Putt — daily mini golf game](https://putt.day/)
 - [Transitle](https://www.transitle.nl/)
 - [Gerrymandle](https://gerrymandle.cc/)
+- [Skeledle - The Daily Anatomy Puzzle](https://skeledle.com/)
+- [Spell Bees Wax](https://spellbeeswax.com/)
