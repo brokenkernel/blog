@@ -32,6 +32,7 @@ San Francisco Things
 - [911 call stream](https://walzr.com/sf-911)
 - [Sealions Webcam](https://www.pier39.com/sealions/)
 - [Hiking By Transit — San Francisco](https://hikingbytransit.com/san-francisco/)
+- [Farallon Islands Live Webcam](https://www.youtube.com/live/fHb0eB9RUgA)
 
 ## Government & Policy
 
