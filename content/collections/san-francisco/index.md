@@ -33,6 +33,7 @@ San Francisco Things
 - [Sealions Webcam](https://www.pier39.com/sealions/)
 - [Hiking By Transit — San Francisco](https://hikingbytransit.com/san-francisco/)
 - [Farallon Islands Live Webcam](https://www.youtube.com/live/fHb0eB9RUgA)
+- [SF Map as a video game](https://sf.thijs.gg/)
 
 ## Government & Policy
 
