@@ -16,6 +16,7 @@ Ordle Games
     - [Wordle Unlimited](https://wordleunlimited.org/)
 - [Spell Bees Wax](https://spellbeeswax.com/)
 - [18 Words](https://18words.com)
+- [Don't Wordle](https://dontwordle.com/)
 
 ## Medical Games
 
