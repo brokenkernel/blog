@@ -53,6 +53,12 @@ San Francisco Things
 - [ALERT](https://www.sanfranciscopolice.org/community/programs/auxilary-law-enforcement-response-team-alert-program)
 - [Refuse Refuse](https://refuserefusesf.org/)
 
+## Songs
+
+- _Stone Over Water_ by Death Cab for Cutie
+- _(I Left My Heart) In San Francisco_ by Tony Bennett
+- _San Francisco (Be Sure to Wear Flowers in Your Hair)_ by Scott McKenzie
+
 ## Famous Characters
 
 ### Bummer and Lazarus
