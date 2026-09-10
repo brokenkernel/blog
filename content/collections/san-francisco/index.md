@@ -34,6 +34,7 @@ San Francisco Things
 - [Hiking By Transit — San Francisco](https://hikingbytransit.com/san-francisco/)
 - [Farallon Islands Live Webcam](https://www.youtube.com/live/fHb0eB9RUgA)
 - [SF Map as a video game](https://sf.thijs.gg/)
+- [Fog Today](https://fog.today/)
 
 ## Government & Policy
 
