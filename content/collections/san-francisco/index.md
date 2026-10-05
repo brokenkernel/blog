@@ -35,6 +35,7 @@ San Francisco Things
 - [Farallon Islands Live Webcam](https://www.youtube.com/live/fHb0eB9RUgA)
 - [SF Map as a video game](https://sf.thijs.gg/)
 - [Fog Today](https://fog.today/)
+- [Flatten SF](https://flattensf.com) — find the flattest route between any two points in San Francisco
 
 ## Government & Policy
 
