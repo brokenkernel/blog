@@ -16,3 +16,4 @@ New York City Things
 - [NYC Pedestrian Traffic](https://data.maximumnewyork.com/pedestrian-traffic/)
 - [Single Ride](https://singleride.nyc/)
 - [Isometric NYC](https://isometric.nyc/)
+- [Subway Sim](https://blackpaw.games/subwaysim/)
