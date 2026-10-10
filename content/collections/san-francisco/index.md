@@ -37,6 +37,10 @@ San Francisco Things
 - [Fog Today](https://fog.today/)
 - [Flatten SF](https://flattensf.com) — find the flattest route between any two points in San Francisco
 
+## Games & Fun
+
+- [Discretionary Review](https://housing.over.pizza/) — A city-building game in which the city would prefer you didn't.
+
 ## Government & Policy
 
 - [SF Streets Blog](https://sf.streetsblog.org)
