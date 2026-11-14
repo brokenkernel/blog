@@ -40,6 +40,7 @@ San Francisco Things
 ## Games & Fun
 
 - [Discretionary Review](https://housing.over.pizza/) — A city-building game in which the city would prefer you didn't.
+- [Isometric San Francisco](https://isometricsf.com/)
 
 ## Government & Policy
 
@@ -58,6 +59,10 @@ San Francisco Things
 - [ACS](https://www.sf.gov/information--auxiliary-communications-service)
 - [ALERT](https://www.sanfranciscopolice.org/community/programs/auxilary-law-enforcement-response-team-alert-program)
 - [Refuse Refuse](https://refuserefusesf.org/)
+
+## Parody
+
+- [San Francisco Currently](https://www.sfcurrently.com)
 
 ## Songs
 
